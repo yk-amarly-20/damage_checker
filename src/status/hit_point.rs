@@ -3,7 +3,7 @@ use crate::error_handler::check_individual::check_individual;
 use crate::error_handler::check_effort::check_effort;
 use crate::error_handler::check_level::check_level;
 
-pub fn calc_hit_point(_base: u32, _individual: u32, _effort: u32, level: u32) -> Result<u32, &'static str> {
+pub fn calc_hit_point(_base: u32, _individual: u32, _effort: u32, _level: u32) -> Result<u32, &'static str> {
 
     let base = check_base(_base)?;
     let individual = check_individual(_individual)?;
