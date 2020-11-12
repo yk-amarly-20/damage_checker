@@ -23,7 +23,30 @@ pub fn calc_main_status(_base: u32, _individual: u32, _effort: u32, _level: u32,
 
     // calculate status.
     let _status = (base * 2 + individual + effort / 4) * level / 100;
-    let status = (_status + 5);
+    let status = _status + 5;
 
-    return status;
+    Ok(status)
+}
+
+#[test]
+fn test_calc_main_status() {
+    let base_case_1 = 130;
+    let ind_case_1 = 31;
+    let effort_case_1 = 252;
+    let level_case_1 = 50;
+
+    let base_case_2 = 130;
+    let ind_case_2 = 31;
+    let effort_case_2 = 252;
+    let level_case_2 = 500;
+
+    assert_eq!(
+        calc_main_status(base_case_1, ind_case_1, effort_case_1, level_case_1).ok(),
+        Some(182)
+    );
+
+    assert_eq!(
+        calc_main_status(base_case_2, ind_case_2, effort_case_2, level_case_2).err(),
+        Some("level must to be between 1 and 100")
+    );
 }
