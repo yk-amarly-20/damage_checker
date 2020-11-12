@@ -27,3 +27,26 @@ pub fn calc_hit_point(_base: u32, _individual: u32, _effort: u32, _level: u32) -
 
     Ok(hit_point)
 }
+
+#[test]
+fn test_calc_hit_point() {
+    let base_case_1 = 108;
+    let ind_case_1 = 31;
+    let effort_case_1 = 252;
+    let level_case_1 = 50;
+
+    let base_case_2 = 108;
+    let ind_case_2 = 31;
+    let effort_case_2 = 252;
+    let level_case_2 = 500;
+
+    assert_eq!(
+        calc_hit_point(base_case_1, ind_case_1, effort_case_1, level_case_1).ok(),
+        Some(215)
+    );
+
+    assert_eq!(
+        calc_hit_point(base_case_2, ind_case_2, effort_case_2, level_case_2).err(),
+        Some("level must to be between 1 and 100")
+    );
+}
