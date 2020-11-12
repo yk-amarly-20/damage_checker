@@ -22,8 +22,7 @@ pub fn calc_hit_point(_base: u32, _individual: u32, _effort: u32, _level: u32) -
     let level = check_level(_level)?;
 
     // calculate status.
-    let _hit_point: u32 = (base * 2 + individual + effort / 4) * level / 100;
-    let hit_point: u32 = _hit_point + level + 10;
+    let hit_point: u32 = (base * 2 + individual + effort / 4) * level / 100 + level + 10;
 
     Ok(hit_point)
 }
