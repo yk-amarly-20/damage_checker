@@ -22,8 +22,8 @@ pub fn calc_main_status(_base: u32, _individual: u32, _effort: u32, _level: u32,
     let level = check_level(_level)?;
 
     // calculate status.
-    let _status = (base * 2 + individual + effort / 4) * level / 100;
-    let status = _status + 5;
+    let _status: u32 = (base * 2 + individual + effort / 4) * level / 100;
+    let status: u32 = _status + 5;
 
     Ok(status)
 }
