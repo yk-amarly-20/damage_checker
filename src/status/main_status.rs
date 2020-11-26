@@ -13,7 +13,7 @@ use crate::error_handler::check_level::check_level;
 ///                       This must be between 0 and 252, and multiple of 4.
 /// * `_level`          - A level.
 ///                       This must be between 1 and 100.
-pub fn calc_main_status(_base: u32, _individual: u32, _effort: u32, _level: u32, ) -> Result<u32, &'static str> {
+pub fn calc_main_status(_base: u32, _individual: u32, _effort: u32, _level: u32) -> Result<u32, &'static str> {
 
     // check each value.
     let base = check_base(_base)?;
