@@ -1,0 +1,535 @@
+[
+  {
+    "attack": 0,
+    "compabilities": [
+      {
+        "diffence": 0,
+        "correction": 1.0
+      },
+      {
+        "diffence": 1,
+        "correction": 1.0
+      },
+      {
+        "diffence": 2,
+        "correction": 1.0
+      },
+      {
+        "diffence": 3,
+        "correction": 1.0
+      },
+      {
+        "diffence": 4,
+        "correction": 1.0
+      },
+      {
+        "diffence": 5,
+        "correction": 1.0
+      },
+      {
+        "diffence": 6,
+        "correction": 1.0
+      },
+      {
+        "diffence": 7,
+        "correction": 1.0
+      },
+      {
+        "diffence": 8,
+        "correction": 1.0
+      },
+      {
+        "diffence": 9,
+        "correction": 1.0
+      },
+      {
+        "diffence": 10,
+        "correction": 1.0
+      },
+      {
+        "diffence": 11,
+        "correction": 1.0
+      },
+      {
+        "diffence": 12,
+        "correction": 0.5
+      },
+      {
+        "diffence": 13,
+        "correction": 0.0
+      },
+      {
+        "diffence": 14,
+        "correction": 1.0
+      },
+      {
+        "diffence": 15,
+        "correction": 1.0
+      },
+      {
+        "diffence": 16,
+        "correction": 0.5
+      },
+      {
+        "diffence": 17,
+        "correction": 1.0
+      }
+    ]
+  },
+  {
+    "attack": 1,
+    "compabilities": [{
+        "diffence": 0,
+        "correction": 1.0
+      },
+      {
+        "diffence": 1,
+        "correction": 0.5
+      },
+      {
+        "diffence": 2,
+        "correction": 0.5
+      },
+      {
+        "diffence": 3,
+        "correction": 1.0
+      },
+      {
+        "diffence": 4,
+        "correction": 2.0
+      },
+      {
+        "diffence": 5,
+        "correction": 2.0
+      },
+      {
+        "diffence": 6,
+        "correction": 1.0
+      },
+      {
+        "diffence": 7,
+        "correction": 1.0
+      },
+      {
+        "diffence": 8,
+        "correction": 1.0
+      },
+      {
+        "diffence": 9,
+        "correction": 1.0
+      },
+      {
+        "diffence": 10,
+        "correction": 1.0
+      },
+      {
+        "diffence": 11,
+        "correction": 2.0
+      },
+      {
+        "diffence": 12,
+        "correction": 0.5
+      },
+      {
+        "diffence": 13,
+        "correction": 0.0
+      },
+      {
+        "diffence": 14,
+        "correction": 0.5
+      },
+      {
+        "diffence": 15,
+        "correction": 1.0
+      },
+      {
+        "diffence": 16,
+        "correction": 2.0
+      },
+      {
+        "diffence": 17,
+        "correction": 1.0
+      }
+    ]
+  },
+  {
+    "attack": 2,
+    "compabilities": [{
+        "diffence": 0,
+        "correction": 1.0
+      },
+      {
+        "diffence": 1,
+        "correction": 2.0
+      },
+      {
+        "diffence": 2,
+        "correction": 0.5
+      },
+      {
+        "diffence": 3,
+        "correction": 1.0
+      },
+      {
+        "diffence": 4,
+        "correction": 0.5
+      },
+      {
+        "diffence": 5,
+        "correction": 1.0
+      },
+      {
+        "diffence": 6,
+        "correction": 1.0
+      },
+      {
+        "diffence": 7,
+        "correction": 1.0
+      },
+      {
+        "diffence": 8,
+        "correction": 2.0
+      },
+      {
+        "diffence": 9,
+        "correction": 1.0
+      },
+      {
+        "diffence": 10,
+        "correction": 1.0
+      },
+      {
+        "diffence": 11,
+        "correction": 1.0
+      },
+      {
+        "diffence": 12,
+        "correction": 2.0
+      },
+      {
+        "diffence": 13,
+        "correction": 1.0
+      },
+      {
+        "diffence": 14,
+        "correction": 0.5
+      },
+      {
+        "diffence": 15,
+        "correction": 1.0
+      },
+      {
+        "diffence": 16,
+        "correction": 1.0
+      },
+      {
+        "diffence": 17,
+        "correction": 1.0
+      }
+    ]
+  },
+  {
+    "attack": 3,
+    "compabilities": [{
+        "diffence": 0,
+        "correction": 1.0
+      },
+      {
+        "diffence": 1,
+        "correction": 1.0
+      },
+      {
+        "diffence": 2,
+        "correction": 2.0
+      },
+      {
+        "diffence": 3,
+        "correction": 0.5
+      },
+      {
+        "diffence": 4,
+        "correction": 0.5
+      },
+      {
+        "diffence": 5,
+        "correction": 1.0
+      },
+      {
+        "diffence": 6,
+        "correction": 1.0
+      },
+      {
+        "diffence": 7,
+        "correction": 1.0
+      },
+      {
+        "diffence": 8,
+        "correction": 0.0
+      },
+      {
+        "diffence": 9,
+        "correction": 2.0
+      },
+      {
+        "diffence": 10,
+        "correction": 1.0
+      },
+      {
+        "diffence": 11,
+        "correction": 1.0
+      },
+      {
+        "diffence": 12,
+        "correction": 1.0
+      },
+      {
+        "diffence": 13,
+        "correction": 1.0
+      },
+      {
+        "diffence": 14,
+        "correction": 0.5
+      },
+      {
+        "diffence": 15,
+        "correction": 1.0
+      },
+      {
+        "diffence": 16,
+        "correction": 1.0
+      },
+      {
+        "diffence": 17,
+        "correction": 1.0
+      }
+    ]
+  },
+  {
+    "attack": 4,
+    "compabilities": [{
+        "diffence": 0,
+        "correction": 1.0
+      },
+      {
+        "diffence": 1,
+        "correction": 0.5
+      },
+      {
+        "diffence": 2,
+        "correction": 2.0
+      },
+      {
+        "diffence": 3,
+        "correction": 1.0
+      },
+      {
+        "diffence": 4,
+        "correction": 0.5
+      },
+      {
+        "diffence": 5,
+        "correction": 1.0
+      },
+      {
+        "diffence": 6,
+        "correction": 1.0
+      },
+      {
+        "diffence": 7,
+        "correction": 0.5
+      },
+      {
+        "diffence": 8,
+        "correction": 2.0
+      },
+      {
+        "diffence": 9,
+        "correction": 0.5
+      },
+      {
+        "diffence": 10,
+        "correction": 1.0
+      },
+      {
+        "diffence": 11,
+        "correction": 0.5
+      },
+      {
+        "diffence": 12,
+        "correction": 2.0
+      },
+      {
+        "diffence": 13,
+        "correction": 1.0
+      },
+      {
+        "diffence": 14,
+        "correction": 0.5
+      },
+      {
+        "diffence": 15,
+        "correction": 1.0
+      },
+      {
+        "diffence": 16,
+        "correction": 0.5
+      },
+      {
+        "diffence": 17,
+        "correction": 1.0
+      }
+    ]
+  },
+  {
+    "attack": 5,
+    "compabilities": [{
+        "diffence": 0,
+        "correction": 1.0
+      },
+      {
+        "diffence": 1,
+        "correction": 0.5
+      },
+      {
+        "diffence": 2,
+        "correction": 0.5
+      },
+      {
+        "diffence": 3,
+        "correction": 1.0
+      },
+      {
+        "diffence": 4,
+        "correction": 2.0
+      },
+      {
+        "diffence": 5,
+        "correction": 0.5
+      },
+      {
+        "diffence": 6,
+        "correction": 1.0
+      },
+      {
+        "diffence": 7,
+        "correction": 1.0
+      },
+      {
+        "diffence": 8,
+        "correction": 2.0
+      },
+      {
+        "diffence": 9,
+        "correction": 2.0
+      },
+      {
+        "diffence": 10,
+        "correction": 1.0
+      },
+      {
+        "diffence": 11,
+        "correction": 1.0
+      },
+      {
+        "diffence": 12,
+        "correction": 1.0
+      },
+      {
+        "diffence": 13,
+        "correction": 0.0
+      },
+      {
+        "diffence": 14,
+        "correction": 2.0
+      },
+      {
+        "diffence": 15,
+        "correction": 1.0
+      },
+      {
+        "diffence": 16,
+        "correction": 0.5
+      },
+      {
+        "diffence": 17,
+        "correction": 1.0
+      }
+    ]
+  },
+  {
+    "attack": 6,
+    "compabilities": [{
+        "diffence": 0,
+        "correction": 2.0
+      },
+      {
+        "diffence": 1,
+        "correction": 1.0
+      },
+      {
+        "diffence": 2,
+        "correction": 1.0
+      },
+      {
+        "diffence": 3,
+        "correction": 1.0
+      },
+      {
+        "diffence": 4,
+        "correction": 1.0
+      },
+      {
+        "diffence": 5,
+        "correction": 2.0
+      },
+      {
+        "diffence": 6,
+        "correction": 1.0
+      },
+      {
+        "diffence": 7,
+        "correction": 0.5
+      },
+      {
+        "diffence": 8,
+        "correction": 1.0
+      },
+      {
+        "diffence": 9,
+        "correction": 0.5
+      },
+      {
+        "diffence": 10,
+        "correction": 0.5
+      },
+      {
+        "diffence": 11,
+        "correction": 0.5
+      },
+      {
+        "diffence": 12,
+        "correction": 2.0
+      },
+      {
+        "diffence": 13,
+        "correction": 0.0
+      },
+      {
+        "diffence": 14,
+        "correction": 1.0
+      },
+      {
+        "diffence": 15,
+        "correction": 2.0
+      },
+      {
+        "diffence": 16,
+        "correction": 2.0
+      },
+      {
+        "diffence": 17,
+        "correction": 0.5
+      }
+    ]
+  }
+]
