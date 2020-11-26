@@ -1,0 +1,74 @@
+[
+  {
+    "type_id": 0,
+    "name": "ノーマル"
+  },
+  {
+    "type_id": 1,
+    "name": "ほのお"
+  },
+  {
+    "type_id": 2,
+    "name": "みず"
+  },
+  {
+    "type_id": 3,
+    "name": "でんき"
+  },
+  {
+    "type_id": 4,
+    "name": "くさ"
+  },
+  {
+    "type_id": 5,
+    "name": "こおり"
+  },
+  {
+    "type_id": 6,
+    "name": "かくとう"
+  },
+  {
+    "type_id": 7,
+    "name": "どく"
+  },
+  {
+    "type_id": 8,
+    "name": "じめん"
+  },
+  {
+    "type_id": 9,
+    "name": "ひこう"
+  },
+  {
+    "type_id": 10,
+    "name": "エスパー"
+  },
+  {
+    "type_id": 11,
+    "name": "むし"
+  },
+  {
+    "type_id": 12,
+    "name": "いわ"
+  },
+  {
+    "type_id": 13,
+    "name": "ゴースト"
+  },
+  {
+    "type_id": 14,
+    "name": "ドラゴン"
+  },
+  {
+    "type_id": 15,
+    "name": "あく"
+  },
+  {
+    "type_id": 16,
+    "name": "はがね"
+  },
+  {
+    "type_id": 17,
+    "name": "フェアリー"
+  }
+]
