@@ -1,0 +1,13 @@
+[
+  {
+    "id": 0,
+    "name": "アームハンマー",
+    "info": {
+      "type": 6,
+      "dist": "p",
+      "power": 100,
+      "dai_max_power": 90,
+      "correction": 1.2
+    }
+  }
+]
