@@ -9,5 +9,720 @@
       "dai_max_power": 90,
       "correction": 1.2
     }
+  },
+  {
+    "id": 1,
+    "name": "アイアンテール",
+    "info": {
+      "type": 16,
+      "dist": "p",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 2,
+    "name": "アイアンヘッド",
+    "info": {
+      "type": 16,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 3,
+    "name": "アイアンローラー",
+    "info": {
+      "type": 16,
+      "dist": "p",
+      "power": 130,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 4,
+    "name": "あおいほのお",
+    "info": {
+      "type": 1,
+      "dist": "s",
+      "power": 130,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 5,
+    "name": "アクアジェット",
+    "info": {
+      "type": 2,
+      "dist": "p",
+      "power": 40,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 6,
+    "name": "アクアテール",
+    "info": {
+      "type": 2,
+      "dist": "p",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 7,
+    "name": "アクアブレイク",
+    "info": {
+      "type": 2,
+      "dist": "p",
+      "power": 85,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 8,
+    "name": "アクアリング",
+    "info": {
+      "type": 2,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 9,
+    "name": "あくうせつだん",
+    "info": {
+      "type": 14,
+      "dist": "s",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 10,
+    "name": "アクセルロック",
+    "info": {
+      "type": 12,
+      "dist": "p",
+      "power": 40,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 11,
+    "name": "あくのはどう",
+    "info": {
+      "type": 15,
+      "dist": "s",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 12,
+    "name": "あくび",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 13,
+    "name": "あくまのキッス",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 14,
+    "name": "アクロバット",
+    "info": {
+      "type": 9,
+      "dist": "p",
+      "power": 55,
+      "dai_max_power": 110,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 15,
+    "name": "あさのひざし",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 16,
+    "name": "アシストギア",
+    "info": {
+      "type": 16,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 17,
+    "name": "アシストパワー",
+    "info": {
+      "type": 10,
+      "dist": "s",
+      "power": 20,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 18,
+    "name": "アシッドボム",
+    "info": {
+      "type": 7,
+      "dist": "s",
+      "power": 40,
+      "dai_max_power": 70,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 19,
+    "name": "アストラルビット",
+    "info": {
+      "type": 13,
+      "dist": "s",
+      "power": 120,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 20,
+    "name": "あてみなげ",
+    "info": {
+      "type": 6,
+      "dist": "p",
+      "power": 70,
+      "dai_max_power": 85,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 21,
+    "name": "あなをほる",
+    "info": {
+      "type": 8,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 22,
+    "name": "あばれる",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 120,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 23,
+    "name": "アフロブレイク",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 120,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 24,
+    "name": "あまいかおり",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 25,
+    "name": "あまえる",
+    "info": {
+      "type": 17,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 26,
+    "name": "あまごい",
+    "info": {
+      "type": 2,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 27,
+    "name": "あやしいひかり",
+    "info": {
+      "type": 13,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 28,
+    "name": "あられ",
+    "info": {
+      "type": 5,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 29,
+    "name": "アロマセラピー",
+    "info": {
+      "type": 4,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 30,
+    "name": "アロマミスト",
+    "info": {
+      "type": 17,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 31,
+    "name": "アンカーショット",
+    "info": {
+      "type": 16,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 32,
+    "name": "アンコール",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 33,
+    "name": "あんこくきょうだ",
+    "info": {
+      "type": 15,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.2
+    }
+  },
+  {
+    "id": 34,
+    "name": "いあいぎり",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 50,
+      "dai_max_power": 100,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 35,
+    "name": "いえき",
+    "info": {
+      "type": 7,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 36,
+    "name": "イカサマ",
+    "info": {
+      "type": 15,
+      "dist": "p",
+      "power": 95,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 37,
+    "name": "いかりのこな",
+    "info": {
+      "type": 11,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 38,
+    "name": "いかりのまえば",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 0,
+      "dai_max_power": 100,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 39,
+    "name": "いたみわけ",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 40,
+    "name": "いちゃもん",
+    "info": {
+      "type": 15,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 41,
+    "name": "いてつくしせん",
+    "info": {
+      "type": 10,
+      "dist": "s",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 42,
+    "name": "いとをはく",
+    "info": {
+      "type": 11,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 43,
+    "name": "いのちがけ",
+    "info": {
+      "type": 6,
+      "dist": "s",
+      "power": 0,
+      "dai_max_power": 100,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 44,
+    "name": "いのちのしずく",
+    "info": {
+      "type": 2,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 45,
+    "name": "いばる",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 46,
+    "name": "いびき",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 47,
+    "name": "いやしのすず",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 48,
+    "name": "いやしのねがい",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 49,
+    "name": "いやしのはどう",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 50,
+    "name": "いやなおと",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 51,
+    "name": "いわおとし",
+    "info": {
+      "type": 12,
+      "dist": "p",
+      "power": 50,
+      "dai_max_power": 100,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 52,
+    "name": "いわくだき",
+    "info": {
+      "type": 12,
+      "dist": "p",
+      "power": 40,
+      "dai_max_power": 70,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 53,
+    "name": "いわなだれ",
+    "info": {
+      "type": 12,
+      "dist": "p",
+      "power": 75,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 54,
+    "name": "インファイト",
+    "info": {
+      "type": 6,
+      "dist": "p",
+      "power": 120,
+      "dai_max_power": 95,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 55,
+    "name": "ウェザーボール",
+    "info": {
+      "type": 0,
+      "dist": "s",
+      "power": 50,
+      "dai_max_power": 130,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 56,
+    "name": "うずしお",
+    "info": {
+      "type": 2,
+      "dist": "s",
+      "power": 35,
+      "dai_max_power": 90,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 57,
+    "name": "うそなき",
+    "info": {
+      "type": 15,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 58,
+    "name": "うたう",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 59,
+    "name": "うたかたのアリア",
+    "info": {
+      "type": 2,
+      "dist": "s",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 60,
+    "name": "うちおとす",
+    "info": {
+      "type": 12,
+      "dist": "p",
+      "power": 50,
+      "dai_max_power": 100,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 61,
+    "name": "ウッドハンマー",
+    "info": {
+      "type": 4,
+      "dist": "p",
+      "power": 120,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 62,
+    "name": "ウッドホーン",
+    "info": {
+      "type": 4,
+      "dist": "p",
+      "power": 75,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 63,
+    "name": "うっぷんばらし",
+    "info": {
+      "type": 15,
+      "dist": "p",
+      "power": 75,
+      "dai_max_power": 130,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 64,
+    "name": "うらみ",
+    "info": {
+      "type": 13,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 65,
+    "name": "エアカッター",
+    "info": {
+      "type": 9,
+      "dist": "s",
+      "power": 60,
+      "dai_max_power": 110,
+      "correction": 1.0
+    }
   }
 ]
