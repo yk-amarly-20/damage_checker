@@ -724,5 +724,280 @@
       "dai_max_power": 110,
       "correction": 1.0
     }
+  },
+  {
+    "id": 66,
+    "name": "エアスラッシュ",
+    "info": {
+      "type": 9,
+      "dist": "s",
+      "power": 75,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 67,
+    "name": "エアロブラスト",
+    "info": {
+      "type": 9,
+      "dist": "s",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 68,
+    "name": "エコーボイス",
+    "info": {
+      "type": 0,
+      "dist": "s",
+      "power": 40,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 69,
+    "name": "えだづき",
+    "info": {
+      "type": 4,
+      "dist": "p",
+      "power": 40,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 70,
+    "name": "エナジーボール",
+    "info": {
+      "type": 4,
+      "dist": "s",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 71,
+    "name": "エラがみ",
+    "info": {
+      "type": 2,
+      "dist": "p",
+      "power": 85,
+      "dai_max_power": 130,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 72,
+    "name": "エレキネット",
+    "info": {
+      "type": 3,
+      "dist": "s",
+      "power": 55,
+      "dai_max_power": 110,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 73,
+    "name": "エレキフィールド",
+    "info": {
+      "type": 3,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 74,
+    "name": "えんまく",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 75,
+    "name": "オーバードライブ",
+    "info": {
+      "type": 3,
+      "dist": "s",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 76,
+    "name": "オーバーヒート",
+    "info": {
+      "type": 1,
+      "dist": "s",
+      "power": 130,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 77,
+    "name": "オーラぐるま",
+    "info": {
+      "type": 3,
+      "dist": "p",
+      "power": 110,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 78,
+    "name": "オーロラビーム",
+    "info": {
+      "type": 5,
+      "dist": "s",
+      "power": 65,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 79,
+    "name": "オーロラベール",
+    "info": {
+      "type": 5,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 80,
+    "name": "おいかぜ",
+    "info": {
+      "type": 9,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 81,
+    "name": "おいわい",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 82,
+    "name": "おきみやげ",
+    "info": {
+      "type": 15,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 83,
+    "name": "オクタンほう",
+    "info": {
+      "type": 2,
+      "dist": "s",
+      "power": 65,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 84,
+    "name": "おさきにどうぞ",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 85,
+    "name": "おたけび",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 86,
+    "name": "おだてる",
+    "info": {
+      "type": 15,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 87,
+    "name": "おちゃかい",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 88,
+    "name": "おどろかす",
+    "info": {
+      "type": 13,
+      "dist": "p",
+      "power": 30,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 89,
+    "name": "おにび",
+    "info": {
+      "type": 1,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 90,
+    "name": "おんねん",
+    "info": {
+      "type": 13,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
   }
 ]
