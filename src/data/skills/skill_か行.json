@@ -1,0 +1,695 @@
+[
+  {
+    "id": 91,
+    "name": "かいでんぱ",
+    "info": {
+      "type": 3,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 92,
+    "name": "かいりき",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 93,
+    "name": "カウンター",
+    "info": {
+      "type": 6,
+      "dist": "p",
+      "power": 0,
+      "dai_max_power": 75,
+      "correction": 0.0
+    }
+  },
+  {
+    "id": 94,
+    "name": "かえんぐるま",
+    "info": {
+      "type": 1,
+      "dist": "p",
+      "power": 60,
+      "dai_max_power": 110,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 95,
+    "name": "かえんだん",
+    "info": {
+      "type": 1,
+      "dist": "s",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 96,
+    "name": "かえんほうしゃ",
+    "info": {
+      "type": 1,
+      "dist": "s",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 97,
+    "name": "かえんボール",
+    "info": {
+      "type": 1,
+      "dist": "p",
+      "power": 120,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 98,
+    "name": " かげうち",
+    "info": {
+      "type": 13,
+      "dist": "p",
+      "power": 40,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 99,
+    "name": "かげぬい",
+    "info": {
+      "type": 13,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 100,
+    "name": "かげぶんしん",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 101,
+    "name": "かぜおこし",
+    "info": {
+      "type": 9,
+      "dist": "s",
+      "power": 40,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 102,
+    "name": "かたきうち",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 70,
+      "dai_max_power": 120,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 103,
+    "name": "かたくなる",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 104,
+    "name": "かなしばり",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 105,
+    "name": "かふんだんご",
+    "info": {
+      "type": 11,
+      "dist": "s",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 106,
+    "name": "かみくだく",
+    "info": {
+      "type": 15,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 107,
+    "name": "かみつく",
+    "info": {
+      "type": 15,
+      "dist": "p",
+      "power": 60,
+      "dai_max_power": 110,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 108,
+    "name": "かみなり",
+    "info": {
+      "type": 3,
+      "dist": "s",
+      "power": 110,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 109,
+    "name": "かみなりのキバ",
+    "info": {
+      "type": 3,
+      "dist": "p",
+      "power": 65,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 110,
+    "name": "かみなりパンチ",
+    "info": {
+      "type": 3,
+      "dist": "p",
+      "power": 75,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 111,
+    "name": "からげんき",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 70,
+      "dai_max_power": 120,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 112,
+    "name": "からにこもる",
+    "info": {
+      "type": 2,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 113,
+    "name": "からをやぶる",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 114,
+    "name": "かわらわり",
+    "info": {
+      "type": 6,
+      "dist": "p",
+      "power": 75,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 115,
+    "name": "ガードシェア",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 116,
+    "name": "ガードスワップ",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 117,
+    "name": "がむしゃら",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 0,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 118,
+    "name": "ガリョウテンセイ",
+    "info": {
+      "type": 14,
+      "dist": "p",
+      "power": 120,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 119,
+    "name": "がんせきふうじ",
+    "info": {
+      "type": 12,
+      "dist": "p",
+      "power": 60,
+      "dai_max_power": 110,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 120,
+    "name": "がんせきほう",
+    "info": {
+      "type": 12,
+      "dist": "p",
+      "power": 150,
+      "dai_max_power": 150,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 121,
+    "name": "きあいだま",
+    "info": {
+      "type": 6,
+      "dist": "s",
+      "power": 120,
+      "dai_max_power": 95,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 122,
+    "name": "きあいだめ",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 123,
+    "name": "きあいパンチ",
+    "info": {
+      "type": 6,
+      "dist": "p",
+      "power": 150,
+      "dai_max_power": 100,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 124,
+    "name": "きしかいせい",
+    "info": {
+      "type": 6,
+      "dist": "p",
+      "power": 0,
+      "dai_max_power": 100,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 125,
+    "name": "キノコのほうし",
+    "info": {
+      "type": 4,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 126,
+    "name": "きゅうけつ",
+    "info": {
+      "type": 11,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 127,
+    "name": "きょじゅうざん",
+    "info": {
+      "type": 16,
+      "dist": "p",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 128,
+    "name": "きょじゅうだん",
+    "info": {
+      "type": 16,
+      "dist": "p",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 129,
+    "name": "きりさく",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 70,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 130,
+    "name": "きりばらい",
+    "info": {
+      "type": 9,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 131,
+    "name": "キングシールド",
+    "info": {
+      "type": 15,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 132,
+    "name": "きんぞくおん",
+    "info": {
+      "type": 15,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 133,
+    "name": "ギアソーサー",
+    "info": {
+      "type": 15,
+      "dist": "p",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 134,
+    "name": "ギアチェンジ",
+    "info": {
+      "type": 15,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 135,
+    "name": "ギガインパクト",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 150,
+      "dai_max_power": 150,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 136,
+    "name": "ギガドレイン",
+    "info": {
+      "type": 4,
+      "dist": "s",
+      "power": 75,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 137,
+    "name": "クイックターン",
+    "info": {
+      "type": 2,
+      "dist": "p",
+      "power": 60,
+      "dai_max_power": 110,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 138,
+    "name": "くさのちかい",
+    "info": {
+      "type": 4,
+      "dist": "s",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 139,
+    "name": "くさむすび",
+    "info": {
+      "type": 4,
+      "dist": "s",
+      "power": 0,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 140,
+    "name": "くすぐる",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 141,
+    "name": "くらいつく",
+    "info": {
+      "type": 15,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 142,
+    "name": "クラブハンマー",
+    "info": {
+      "type": 2,
+      "dist": "p",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 143,
+    "name": "クリアスモッグ",
+    "info": {
+      "type": 7,
+      "dist": "s",
+      "power": 50,
+      "dai_max_power": 75,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 144,
+    "name": "くろいきり",
+    "info": {
+      "type": 5,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 145,
+    "name": "くろいまなざし",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 146,
+    "name": "クロスサンダー",
+    "info": {
+      "type": 3,
+      "dist": "p",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 147,
+    "name": "クロスチョップ",
+    "info": {
+      "type": 6,
+      "dist": "p",
+      "power": 100,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 148,
+    "name": "クロスフレイム",
+    "info": {
+      "type": 1,
+      "dist": "s",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 149,
+    "name": "クロスポイズン",
+    "info": {
+      "type": 7,
+      "dist": "p",
+      "power": 70,
+      "dai_max_power": 85,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 150,
+    "name": "グラススライダー",
+    "info": {
+      "type": 4,
+      "dist": "p",
+      "power": 70,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 151,
+    "name": "グラスフィールド",
+    "info": {
+      "type": 4,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 152,
+    "name": "グラスミキサー",
+    "info": {
+      "type": 4,
+      "dist": "s",
+      "power": 65,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 153,
+    "name": "グランドフォース",
+    "info": {
+      "type": 8,
+      "dist": "p",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  }
+]
