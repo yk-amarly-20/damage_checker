@@ -691,5 +691,346 @@
       "dai_max_power": 130,
       "correction": 1.0
     }
+  },
+  {
+    "id": 154,
+    "name": "グロウパンチ",
+    "info": {
+      "type": 6,
+      "dist": "p",
+      "power": 40,
+      "dai_max_power": 70,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 155,
+    "name": "けたぐり",
+    "info": {
+      "type": 6,
+      "dist": "p",
+      "power": 0,
+      "dai_max_power": 100,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 156,
+    "name": "げきりん",
+    "info": {
+      "type": 14,
+      "dist": "p",
+      "power": 120,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 157,
+    "name": "ゲップ",
+    "info": {
+      "type": 7,
+      "dist": "s",
+      "power": 120,
+      "dai_max_power": 95,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 158,
+    "name": "げんしのちから",
+    "info": {
+      "type": 12,
+      "dist": "s",
+      "power": 60,
+      "dai_max_power": 110,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 159,
+    "name": "コーチング",
+    "info": {
+      "type": 6,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 160,
+    "name": "コートチェンジ",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 161,
+    "name": "コールドフレア",
+    "info": {
+      "type": 5,
+      "dist": "s",
+      "power": 140,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 162,
+    "name": "コアパニッシャー",
+    "info": {
+      "type": 100,
+      "dist": "s",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 163,
+    "name": "こうげきしれい",
+    "info": {
+      "type": 11,
+      "dist": "p",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 164,
+    "name": "こうごうせい",
+    "info": {
+      "type": 4,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 165,
+    "name": "こうそくいどう",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 166,
+    "name": "こうそくスピン",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 50,
+      "dai_max_power": 100,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 167,
+    "name": "こおりのいぶき",
+    "info": {
+      "type": 5,
+      "dist": "s",
+      "power": 60,
+      "dai_max_power": 110,
+      "correction": 1.5
+    }
+  },
+  {
+    "id": 168,
+    "name": "こおりのキバ",
+    "info": {
+      "type": 5,
+      "dist": "p",
+      "power": 65,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 169,
+    "name": "こおりのつぶて",
+    "info": {
+      "type": 5,
+      "dist": "p",
+      "power": 40,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 170,
+    "name": "こころのめ",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 171,
+    "name": "こごえるかぜ",
+    "info": {
+      "type": 5,
+      "dist": "s",
+      "power": 55,
+      "dai_max_power": 110,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 172,
+    "name": "こごえるせかい",
+    "info": {
+      "type": 5,
+      "dist": "s",
+      "power": 65,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 173,
+    "name": "コスモパワー",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 174,
+    "name": "コットンガード",
+    "info": {
+      "type": 4,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 175,
+    "name": "こなゆき",
+    "info": {
+      "type": 5,
+      "dist": "s",
+      "power": 40,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 176,
+    "name": "このは",
+    "info": {
+      "type": 4,
+      "dist": "p",
+      "power": 40,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 177,
+    "name": "このゆびとまれ",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 178,
+    "name": "コメットパンチ",
+    "info": {
+      "type": 16,
+      "dist": "p",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.2
+    }
+  },
+  {
+    "id": 179,
+    "name": "こらえる",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 180,
+    "name": "ころがる",
+    "info": {
+      "type": 12,
+      "dist": "p",
+      "power": 30,
+      "dai_max_power": 90,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 181,
+    "name": "こわいかお",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 182,
+    "name": "こんげんのはどう",
+    "info": {
+      "type": 2,
+      "dist": "s",
+      "power": 110,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 183,
+    "name": "ゴーストダイブ",
+    "info": {
+      "type": 13,
+      "dist": "p",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 184,
+    "name": "ゴッドバード",
+    "info": {
+      "type": 9,
+      "dist": "p",
+      "power": 140,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
   }
 ]
