@@ -1,0 +1,277 @@
+[
+  {
+    "id": 185,
+    "name": "サイケこうせん",
+    "info": {
+      "type": 10,
+      "dist": "s",
+      "power": 65,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 186,
+    "name": "サイコカッター",
+    "info": {
+      "type": 10,
+      "dist": "p",
+      "power": 70,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 187,
+    "name": "サイケキネシス",
+    "info": {
+      "type": 10,
+      "dist": "s",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 188,
+    "name": "サイケシフト",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 189,
+    "name": "サイコショック",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 190,
+    "name": "サイコファング",
+    "info": {
+      "type": 10,
+      "dist": "p",
+      "power": 85,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 191,
+    "name": "サイケフィールド",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 192,
+    "name": "サイコブレイク",
+    "info": {
+      "type": 10,
+      "dist": "s",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 193,
+    "name": "サイドチェンジ",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 194,
+    "name": "さいはい",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 195,
+    "name": "さいみんじゅつ",
+    "info": {
+      "type": 10,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 196,
+    "name": "サウザンアロー",
+    "info": {
+      "type": 8,
+      "dist": "p",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 197,
+    "name": "サウザンウェーブ",
+    "info": {
+      "type": 8,
+      "dist": "p",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 198,
+    "name": "さきおくり",
+    "info": {
+      "type": 15,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 199,
+    "name": "さわぐ",
+    "info": {
+      "type": 0,
+      "dist": "s",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 200,
+    "name": "サンダープリズン",
+    "info": {
+      "type": 3,
+      "dist": "s",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 201,
+    "name": "シェルアームズ",
+    "info": {
+      "type": 7,
+      "dist": "s",
+      "power": 90,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 202,
+    "name": "シェルブレード",
+    "info": {
+      "type": 2,
+      "dist": "p",
+      "power": 75,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 203,
+    "name": "しおふき",
+    "info": {
+      "type": 2,
+      "dist": "s",
+      "power": 150,
+      "dai_max_power": 150,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 204,
+    "name": "しおみず",
+    "info": {
+      "type": 2,
+      "dist": "s",
+      "power": 65,
+      "dai_max_power": 120,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 205,
+    "name": "シザークロス",
+    "info": {
+      "type": 11,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 206,
+    "name": "しぜんのいかり",
+    "info": {
+      "type": 17,
+      "dist": "s",
+      "power": 0,
+      "dai_max_power": 100,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 207,
+    "name": "しぜんのちから",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 208,
+    "name": "したでなめる",
+    "info": {
+      "type": 13,
+      "dist": "p",
+      "power": 30,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 209,
+    "name": "しっとのほのお",
+    "info": {
+      "type": 1,
+      "dist": "s",
+      "power": 70,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  }
+]
