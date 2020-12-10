@@ -23,7 +23,7 @@
   },
   {
     "id": 187,
-    "name": "サイケキネシス",
+    "name": "サイコキネシス",
     "info": {
       "type": 10,
       "dist": "s",
@@ -67,7 +67,7 @@
   },
   {
     "id": 191,
-    "name": "サイケフィールド",
+    "name": "サイコフィールド",
     "info": {
       "type": 10,
       "dist": "v",
@@ -271,6 +271,303 @@
       "dist": "s",
       "power": 70,
       "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 210,
+    "name": "しっぺがえし",
+    "info": {
+      "type": 15,
+      "dist": "p",
+      "power": 50,
+      "dai_max_power": 100,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 211,
+    "name": "しねんのずつき",
+    "info": {
+      "type": 10,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 212,
+    "name": "しびれごな",
+    "info": {
+      "type": 4,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 213,
+    "name": "しめつける",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 15,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 214,
+    "name": "シャドークロー",
+    "info": {
+      "type": 13,
+      "dist": "p",
+      "power": 70,
+      "dai_max_power": 120,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 215,
+    "name": "シャドースチール",
+    "info": {
+      "type": 13,
+      "dist": "p",
+      "power": 90,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 216,
+    "name": "シャドーダイブ",
+    "info": {
+      "type": 13,
+      "dist": "p",
+      "power": 120,
+      "dai_max_power": 140,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 217,
+    "name": "シャドーパンチ",
+    "info": {
+      "type": 13,
+      "dist": "p",
+      "power": 60,
+      "dai_max_power": 110,
+      "correction": 1.2
+    }
+  },
+  {
+    "id": 218,
+    "name": "シャドーボール",
+    "info": {
+      "type": 13,
+      "dist": "s",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 219,
+    "name": "シャドーボーン",
+    "info": {
+      "type": 13,
+      "dist": "p",
+      "power": 85,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 220,
+    "name": "シャドーレイ",
+    "info": {
+      "type": 13,
+      "dist": "s",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 221,
+    "name": "しろいきり",
+    "info": {
+      "type": 5,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 222,
+    "name": "しんくうは",
+    "info": {
+      "type": 6,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 223,
+    "name": "しんそく",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 224,
+    "name": "しんぴのつるぎ",
+    "info": {
+      "type": 6,
+      "dist": "s",
+      "power": 85,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 225,
+    "name": "しんぴのまもり",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 226,
+    "name": "シンプルビーム",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 227,
+    "name": "Gのちから",
+    "info": {
+      "type": 4,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.5
+    }
+  },
+  {
+    "id": 228,
+    "name": "ジオコントロール",
+    "info": {
+      "type": 17,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 229,
+    "name": "じこあんじ",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 230,
+    "name": "じこさいせい",
+    "info": {
+      "type": 0,
+      "dist": "v",
+      "power": null,
+      "dai_max_power": null,
+      "correction": null
+    }
+  },
+  {
+    "id": 231,
+    "name": "じごくぐるま",
+    "info": {
+      "type": 6,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 90,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 232,
+    "name": "じごくづき",
+    "info": {
+      "type": 15,
+      "dist": "p",
+      "power": 80,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 233,
+    "name": "じしん",
+    "info": {
+      "type": 8,
+      "dist": "p",
+      "power": 100,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 234,
+    "name": "じたばた",
+    "info": {
+      "type": 0,
+      "dist": "p",
+      "power": 0,
+      "dai_max_power": 130,
+      "correction": 1.0
+    }
+  },
+  {
+    "id": 235,
+    "name": "じだんだ",
+    "info": {
+      "type": 8,
+      "dist": "p",
+      "power": 75,
+      "dai_max_power": 130,
+      "correction": 2.0
+    }
+  },
+  {
+    "id": 208,
+    "name": "したでなめる",
+    "info": {
+      "type": 13,
+      "dist": "p",
+      "power": 30,
+      "dai_max_power": 90,
       "correction": 1.0
     }
   }
