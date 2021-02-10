@@ -1,0 +1,3657 @@
+[
+    {
+        "num": 208,
+        "name": "ハガネール",
+        "en_name": "Steelix",
+        "weight": 400.0,
+        "ketaguri": 120,
+        "type1": 16,
+        "type2": 8,
+        "status": {
+            "H": 75,
+            "A": 85,
+            "B": 200,
+            "C": 55,
+            "D": 65,
+            "S": 30
+        }
+    },
+    {
+        "num": 208,
+        "name": "メガハガネール",
+        "en_name": "Steelix",
+        "weight": 400.0,
+        "ketaguri": 120,
+        "type1": 16,
+        "type2": 8,
+        "status": {
+            "H": 75,
+            "A": 85,
+            "B": 200,
+            "C": 55,
+            "D": 65,
+            "S": 30
+        }
+    },
+    {
+        "num": 779,
+        "name": "ハギギシリ",
+        "en_name": "Bruxish",
+        "weight": 19.0,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": 10,
+        "status": {
+            "H": 68,
+            "A": 105,
+            "B": 70,
+            "C": 70,
+            "D": 70,
+            "S": 92
+        }
+    },
+    {
+        "num": 148,
+        "name": "ハクリュー",
+        "en_name": "Dragonair",
+        "weight": 16.5,
+        "ketaguri": 40,
+        "type1": 14,
+        "type2": null,
+        "status": {
+            "H": 61,
+            "A": 84,
+            "B": 65,
+            "C": 70,
+            "D": 70,
+            "S": 70
+        }
+    },
+    {
+        "num": 271,
+        "name": "ハスブレロ",
+        "en_name": "Lombre",
+        "weight": 32.5,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": 4,
+        "status": {
+            "H": 60,
+            "A": 50,
+            "B": 50,
+            "C": 60,
+            "D": 70,
+            "S": 50
+        }
+    },
+    {
+        "num": 270,
+        "name": "ハスボー",
+        "en_name": "Lotad",
+        "weight": 2.6,
+        "ketaguri": 20,
+        "type1": 2,
+        "type2": 4,
+        "status": {
+            "H": 40,
+            "A": 30,
+            "B": 30,
+            "C": 40,
+            "D": 50,
+            "S": 30
+        }
+    },
+    {
+        "num": 212,
+        "name": "ハッサム",
+        "en_name": "Scizor",
+        "weight": 118.0,
+        "ketaguri": 100,
+        "type1": 11,
+        "type2": 16,
+        "status": {
+            "H": 70,
+            "A": 130,
+            "B": 100,
+            "C": 55,
+            "D": 80,
+            "S": 65
+        }
+    },
+    {
+        "num": 212,
+        "name": "メガハッサム",
+        "en_name": "Scizor",
+        "weight": 118.0,
+        "ketaguri": 100,
+        "type1": 11,
+        "type2": 16,
+        "status": {
+            "H": 70,
+            "A": 130,
+            "B": 100,
+            "C": 55,
+            "D": 80,
+            "S": 65
+        }
+    },
+    {
+        "num": 520,
+        "name": "ハトーボー",
+        "en_name": "Tranquill",
+        "weight": 15.0,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": 9,
+        "status": {
+            "H": 62,
+            "A": 77,
+            "B": 62,
+            "C": 50,
+            "D": 42,
+            "S": 65
+        }
+    },
+    {
+        "num": 187,
+        "name": "ハネッコ",
+        "en_name": "Hoppip",
+        "weight": 0.5,
+        "ketaguri": 20,
+        "type1": 4,
+        "type2": 9,
+        "status": {
+            "H": 35,
+            "A": 35,
+            "B": 40,
+            "C": 35,
+            "D": 55,
+            "S": 50
+        }
+    },
+    {
+        "num": 542,
+        "name": "ハハコモリ",
+        "en_name": "Leavanny",
+        "weight": 20.5,
+        "ketaguri": 40,
+        "type1": 11,
+        "type2": 4,
+        "status": {
+            "H": 75,
+            "A": 103,
+            "B": 80,
+            "C": 70,
+            "D": 80,
+            "S": 92
+        }
+    },
+    {
+        "num": 242,
+        "name": "ハピナス",
+        "en_name": "Blissey",
+        "weight": 46.8,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 255,
+            "A": 10,
+            "B": 10,
+            "C": 75,
+            "D": 135,
+            "S": 55
+        }
+    },
+    {
+        "num": 336,
+        "name": "ハブネーク",
+        "en_name": "Seviper",
+        "weight": 52.5,
+        "ketaguri": 80,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 73,
+            "A": 100,
+            "B": 60,
+            "C": 100,
+            "D": 60,
+            "S": 65
+        }
+    },
+    {
+        "num": 388,
+        "name": "ハヤシガメ",
+        "en_name": "Grotle",
+        "weight": 97.0,
+        "ketaguri": 80,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 75,
+            "A": 89,
+            "B": 85,
+            "C": 55,
+            "D": 65,
+            "S": 36
+        }
+    },
+    {
+        "num": 297,
+        "name": "ハリテヤマ",
+        "en_name": "Hariyama",
+        "weight": 253.8,
+        "ketaguri": 120,
+        "type1": 6,
+        "type2": null,
+        "status": {
+            "H": 144,
+            "A": 120,
+            "B": 60,
+            "C": 40,
+            "D": 60,
+            "S": 50
+        }
+    },
+    {
+        "num": 651,
+        "name": "ハリボーグ",
+        "en_name": "Quilladin",
+        "weight": 29.0,
+        "ketaguri": 60,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 61,
+            "A": 78,
+            "B": 95,
+            "C": 56,
+            "D": 58,
+            "S": 57
+        }
+    },
+    {
+        "num": 650,
+        "name": "ハリマロン",
+        "en_name": "Chespin",
+        "weight": 9.0,
+        "ketaguri": 20,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 56,
+            "A": 61,
+            "B": 65,
+            "C": 48,
+            "D": 45,
+            "S": 38
+        }
+    },
+    {
+        "num": 211,
+        "name": "ハリーセン",
+        "en_name": "Qwilfish",
+        "weight": 3.9,
+        "ketaguri": 20,
+        "type1": 2,
+        "type2": 7,
+        "status": {
+            "H": 65,
+            "A": 95,
+            "B": 85,
+            "C": 55,
+            "D": 55,
+            "S": 85
+        }
+    },
+    {
+        "num": 367,
+        "name": "ハンテール",
+        "en_name": "Huntail",
+        "weight": 27.0,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 55,
+            "A": 104,
+            "B": 105,
+            "C": 94,
+            "D": 75,
+            "S": 52
+        }
+    },
+    {
+        "num": 507,
+        "name": "ハーデリア",
+        "en_name": "Herdier",
+        "weight": 14.7,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 80,
+            "B": 65,
+            "C": 35,
+            "D": 65,
+            "S": 60
+        }
+    },
+    {
+        "num": 832,
+        "name": "バイウールー",
+        "en_name": "Dubwool",
+        "weight": 43.0,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 72,
+            "A": 80,
+            "B": 100,
+            "C": 60,
+            "D": 90,
+            "S": 88
+        }
+    },
+    {
+        "num": 584,
+        "name": "バイバニラ",
+        "en_name": "Vanilluxe",
+        "weight": 57.5,
+        "ketaguri": 80,
+        "type1": 5,
+        "type2": null,
+        "status": {
+            "H": 71,
+            "A": 95,
+            "B": 85,
+            "C": 110,
+            "D": 95,
+            "S": 79
+        }
+    },
+    {
+        "num": 514,
+        "name": "バオッキー",
+        "en_name": "Simisear",
+        "weight": 28.0,
+        "ketaguri": 60,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 75,
+            "A": 98,
+            "B": 63,
+            "C": 98,
+            "D": 63,
+            "S": 101
+        }
+    },
+    {
+        "num": 513,
+        "name": "バオップ",
+        "en_name": "Pansear",
+        "weight": 11.0,
+        "ketaguri": 40,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 50,
+            "A": 53,
+            "B": 48,
+            "C": 53,
+            "D": 48,
+            "S": 64
+        }
+    },
+    {
+        "num": 295,
+        "name": "バクオング",
+        "en_name": "Exploud",
+        "weight": 84.0,
+        "ketaguri": 80,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 104,
+            "A": 91,
+            "B": 63,
+            "C": 91,
+            "D": 73,
+            "S": 68
+        }
+    },
+    {
+        "num": 776,
+        "name": "バクガメス",
+        "en_name": "Turtonator",
+        "weight": 212.0,
+        "ketaguri": 120,
+        "type1": 1,
+        "type2": 14,
+        "status": {
+            "H": 60,
+            "A": 78,
+            "B": 135,
+            "C": 91,
+            "D": 85,
+            "S": 36
+        }
+    },
+    {
+        "num": 157,
+        "name": "バクフーン",
+        "en_name": "Typhlosion",
+        "weight": 79.5,
+        "ketaguri": 80,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 78,
+            "A": 84,
+            "B": 78,
+            "C": 109,
+            "D": 85,
+            "S": 100
+        }
+    },
+    {
+        "num": 323,
+        "name": "バクーダ",
+        "en_name": "Camerupt",
+        "weight": 220.0,
+        "ketaguri": 120,
+        "type1": 1,
+        "type2": 8,
+        "status": {
+            "H": 70,
+            "A": 100,
+            "B": 70,
+            "C": 105,
+            "D": 75,
+            "S": 40
+        }
+    },
+    {
+        "num": 323,
+        "name": "メガバクーダ",
+        "en_name": "Camerupt",
+        "weight": 220.0,
+        "ketaguri": 120,
+        "type1": 1,
+        "type2": 8,
+        "status": {
+            "H": 70,
+            "A": 100,
+            "B": 70,
+            "C": 105,
+            "D": 75,
+            "S": 40
+        }
+    },
+    {
+        "num": 710,
+        "name": "バケッチャ(普通)",
+        "en_name": "Pumpkaboo",
+        "weight": 5.0,
+        "ketaguri": 20,
+        "type1": 13,
+        "type2": 4,
+        "status": {
+            "H": 49,
+            "A": 66,
+            "B": 70,
+            "C": 44,
+            "D": 55,
+            "S": 51
+        }
+    },
+    {
+        "num": 710,
+        "name": "バケッチャ(小)",
+        "en_name": "Pumpkaboo",
+        "weight": 5.0,
+        "ketaguri": 20,
+        "type1": 13,
+        "type2": 4,
+        "status": {
+            "H": 49,
+            "A": 66,
+            "B": 70,
+            "C": 44,
+            "D": 55,
+            "S": 51
+        }
+    },
+    {
+        "num": 710,
+        "name": "バケッチャ(大)",
+        "en_name": "Pumpkaboo",
+        "weight": 5.0,
+        "ketaguri": 20,
+        "type1": 13,
+        "type2": 4,
+        "status": {
+            "H": 49,
+            "A": 66,
+            "B": 70,
+            "C": 44,
+            "D": 55,
+            "S": 51
+        }
+    },
+    {
+        "num": 710,
+        "name": "バケッチャ(特大)",
+        "en_name": "Pumpkaboo",
+        "weight": 5.0,
+        "ketaguri": 20,
+        "type1": 13,
+        "type2": 4,
+        "status": {
+            "H": 49,
+            "A": 66,
+            "B": 70,
+            "C": 44,
+            "D": 55,
+            "S": 51
+        }
+    },
+    {
+        "num": 257,
+        "name": "バシャーモ",
+        "en_name": "Blaziken",
+        "weight": 52.0,
+        "ketaguri": 80,
+        "type1": 1,
+        "type2": 6,
+        "status": {
+            "H": 80,
+            "A": 120,
+            "B": 70,
+            "C": 110,
+            "D": 70,
+            "S": 80
+        }
+    },
+    {
+        "num": 257,
+        "name": "メガバシャーモ",
+        "en_name": "Blaziken",
+        "weight": 52.0,
+        "ketaguri": 80,
+        "type1": 1,
+        "type2": 6,
+        "status": {
+            "H": 80,
+            "A": 120,
+            "B": 70,
+            "C": 110,
+            "D": 70,
+            "S": 80
+        }
+    },
+    {
+        "num": 550,
+        "name": "バスラオ(赤)",
+        "en_name": "Basculin",
+        "weight": 18.0,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 70,
+            "A": 92,
+            "B": 65,
+            "C": 80,
+            "D": 55,
+            "S": 98
+        }
+    },
+    {
+        "num": 550,
+        "name": "バスラオ(青)",
+        "en_name": "Basculin",
+        "weight": 18.0,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 70,
+            "A": 92,
+            "B": 65,
+            "C": 80,
+            "D": 55,
+            "S": 98
+        }
+    },
+    {
+        "num": 12,
+        "name": "バタフリー",
+        "en_name": "Butterfree",
+        "weight": 32.0,
+        "ketaguri": 60,
+        "type1": 11,
+        "type2": 9,
+        "status": {
+            "H": 60,
+            "A": 45,
+            "B": 50,
+            "C": 90,
+            "D": 80,
+            "S": 70
+        }
+    },
+    {
+        "num": 595,
+        "name": "バチュル",
+        "en_name": "Joltik",
+        "weight": 0.6,
+        "ketaguri": 20,
+        "type1": 11,
+        "type2": 3,
+        "status": {
+            "H": 50,
+            "A": 47,
+            "B": 50,
+            "C": 57,
+            "D": 50,
+            "S": 65
+        }
+    },
+    {
+        "num": 871,
+        "name": "バチンウニ",
+        "en_name": "Pincurchin",
+        "weight": 1.0,
+        "ketaguri": 20,
+        "type1": 3,
+        "type2": null,
+        "status": {
+            "H": 48,
+            "A": 101,
+            "B": 95,
+            "C": 91,
+            "D": 85,
+            "S": 15
+        }
+    },
+    {
+        "num": 811,
+        "name": "バチンキー",
+        "en_name": "Thwackey",
+        "weight": 14.0,
+        "ketaguri": 40,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 70,
+            "A": 85,
+            "B": 70,
+            "C": 55,
+            "D": 60,
+            "S": 80
+        }
+    },
+    {
+        "num": 626,
+        "name": "バッフロン",
+        "en_name": "Bouffalant",
+        "weight": 94.6,
+        "ketaguri": 80,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 95,
+            "A": 110,
+            "B": 95,
+            "C": 40,
+            "D": 95,
+            "S": 55
+        }
+    },
+    {
+        "num": 898,
+        "name": "バドレックス",
+        "en_name": "Calyrex",
+        "weight": 7.7,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": 4,
+        "status": {
+            "H": 100,
+            "A": 80,
+            "B": 80,
+            "C": 80,
+            "D": 80,
+            "S": 80
+        }
+    },
+    {
+        "num": 898,
+        "name": "バドレックス(はくば)",
+        "en_name": "Calyrex",
+        "weight": 7.7,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": 4,
+        "status": {
+            "H": 100,
+            "A": 80,
+            "B": 80,
+            "C": 80,
+            "D": 80,
+            "S": 80
+        }
+    },
+    {
+        "num": 898,
+        "name": "バドレックス(こくば)",
+        "en_name": "Calyrex",
+        "weight": 7.7,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": 4,
+        "status": {
+            "H": 100,
+            "A": 80,
+            "B": 80,
+            "C": 80,
+            "D": 80,
+            "S": 80
+        }
+    },
+    {
+        "num": 582,
+        "name": "バニプッチ",
+        "en_name": "Vanillite",
+        "weight": 5.7,
+        "ketaguri": 20,
+        "type1": 5,
+        "type2": null,
+        "status": {
+            "H": 36,
+            "A": 50,
+            "B": 50,
+            "C": 65,
+            "D": 60,
+            "S": 44
+        }
+    },
+    {
+        "num": 583,
+        "name": "バニリッチ",
+        "en_name": "Vanillish",
+        "weight": 41.0,
+        "ketaguri": 60,
+        "type1": 5,
+        "type2": null,
+        "status": {
+            "H": 51,
+            "A": 65,
+            "B": 65,
+            "C": 80,
+            "D": 75,
+            "S": 59
+        }
+    },
+    {
+        "num": 325,
+        "name": "バネブー",
+        "en_name": "Spoink",
+        "weight": 30.6,
+        "ketaguri": 60,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 25,
+            "B": 35,
+            "C": 70,
+            "D": 80,
+            "S": 60
+        }
+    },
+    {
+        "num": 866,
+        "name": "バリコオル",
+        "en_name": "Mr. Rime",
+        "weight": 58.2,
+        "ketaguri": 80,
+        "type1": 5,
+        "type2": 10,
+        "status": {
+            "H": 80,
+            "A": 85,
+            "B": 75,
+            "C": 110,
+            "D": 100,
+            "S": 70
+        }
+    },
+    {
+        "num": 122,
+        "name": "バリヤード",
+        "en_name": "Mr. Mime",
+        "weight": 54.5,
+        "ketaguri": 80,
+        "type1": 10,
+        "type2": 17,
+        "status": {
+            "H": 40,
+            "A": 45,
+            "B": 65,
+            "C": 100,
+            "D": 120,
+            "S": 90
+        }
+    },
+    {
+        "num": 122,
+        "name": "バリヤード(ガラル)",
+        "en_name": "Mr. Mime",
+        "weight": 54.5,
+        "ketaguri": 80,
+        "type1": 10,
+        "type2": 17,
+        "status": {
+            "H": 40,
+            "A": 45,
+            "B": 65,
+            "C": 100,
+            "D": 120,
+            "S": 90
+        }
+    },
+    {
+        "num": 236,
+        "name": "バルキー",
+        "en_name": "Tyrogue",
+        "weight": 21.0,
+        "ketaguri": 40,
+        "type1": 6,
+        "type2": null,
+        "status": {
+            "H": 35,
+            "A": 35,
+            "B": 35,
+            "C": 35,
+            "D": 35,
+            "S": 35
+        }
+    },
+    {
+        "num": 630,
+        "name": "バルジーナ",
+        "en_name": "Mandibuzz",
+        "weight": 39.5,
+        "ketaguri": 60,
+        "type1": 15,
+        "type2": 9,
+        "status": {
+            "H": 110,
+            "A": 65,
+            "B": 105,
+            "C": 55,
+            "D": 95,
+            "S": 80
+        }
+    },
+    {
+        "num": 629,
+        "name": "バルチャイ",
+        "en_name": "Vullaby",
+        "weight": 9.0,
+        "ketaguri": 20,
+        "type1": 15,
+        "type2": 9,
+        "status": {
+            "H": 70,
+            "A": 55,
+            "B": 75,
+            "C": 45,
+            "D": 65,
+            "S": 60
+        }
+    },
+    {
+        "num": 313,
+        "name": "バルビート",
+        "en_name": "Volbeat",
+        "weight": 17.7,
+        "ketaguri": 40,
+        "type1": 11,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 73,
+            "B": 75,
+            "C": 47,
+            "D": 85,
+            "S": 85
+        }
+    },
+    {
+        "num": 248,
+        "name": "バンギラス",
+        "en_name": "Tyranitar",
+        "weight": 202.0,
+        "ketaguri": 120,
+        "type1": 12,
+        "type2": 15,
+        "status": {
+            "H": 100,
+            "A": 134,
+            "B": 110,
+            "C": 95,
+            "D": 100,
+            "S": 61
+        }
+    },
+    {
+        "num": 248,
+        "name": "メガバンギラス",
+        "en_name": "Tyranitar",
+        "weight": 202.0,
+        "ketaguri": 120,
+        "type1": 12,
+        "type2": 15,
+        "status": {
+            "H": 100,
+            "A": 134,
+            "B": 110,
+            "C": 95,
+            "D": 100,
+            "S": 61
+        }
+    },
+    {
+        "num": 750,
+        "name": "バンバドロ",
+        "en_name": "Mudsdale",
+        "weight": 920.0,
+        "ketaguri": 120,
+        "type1": 8,
+        "type2": null,
+        "status": {
+            "H": 100,
+            "A": 125,
+            "B": 100,
+            "C": 55,
+            "D": 85,
+            "S": 35
+        }
+    },
+    {
+        "num": 86,
+        "name": "パウワウ",
+        "en_name": "Seel",
+        "weight": 90.0,
+        "ketaguri": 80,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 45,
+            "B": 55,
+            "C": 45,
+            "D": 70,
+            "S": 45
+        }
+    },
+    {
+        "num": 417,
+        "name": "パチリス",
+        "en_name": "Pachirisu",
+        "weight": 3.9,
+        "ketaguri": 20,
+        "type1": 3,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 45,
+            "B": 70,
+            "C": 45,
+            "D": 90,
+            "S": 95
+        }
+    },
+    {
+        "num": 880,
+        "name": "パッチラゴン",
+        "en_name": "Dracozolt",
+        "weight": 190.0,
+        "ketaguri": 100,
+        "type1": 3,
+        "type2": 14,
+        "status": {
+            "H": 90,
+            "A": 100,
+            "B": 90,
+            "C": 80,
+            "D": 70,
+            "S": 75
+        }
+    },
+    {
+        "num": 881,
+        "name": "パッチルドン",
+        "en_name": "Arctozolt",
+        "weight": 150.0,
+        "ketaguri": 100,
+        "type1": 3,
+        "type2": 5,
+        "status": {
+            "H": 90,
+            "A": 100,
+            "B": 90,
+            "C": 90,
+            "D": 80,
+            "S": 55
+        }
+    },
+    {
+        "num": 327,
+        "name": "パッチール",
+        "en_name": "Spinda",
+        "weight": 5.0,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 60,
+            "B": 60,
+            "C": 60,
+            "D": 60,
+            "S": 60
+        }
+    },
+    {
+        "num": 46,
+        "name": "パラス",
+        "en_name": "Paras",
+        "weight": 5.4,
+        "ketaguri": 20,
+        "type1": 11,
+        "type2": 4,
+        "status": {
+            "H": 35,
+            "A": 70,
+            "B": 55,
+            "C": 45,
+            "D": 55,
+            "S": 25
+        }
+    },
+    {
+        "num": 47,
+        "name": "パラセクト",
+        "en_name": "Parasect",
+        "weight": 29.5,
+        "ketaguri": 60,
+        "type1": 11,
+        "type2": 4,
+        "status": {
+            "H": 60,
+            "A": 95,
+            "B": 80,
+            "C": 60,
+            "D": 80,
+            "S": 30
+        }
+    },
+    {
+        "num": 484,
+        "name": "パルキア",
+        "en_name": "Palkia",
+        "weight": 336.0,
+        "ketaguri": 120,
+        "type1": 2,
+        "type2": 14,
+        "status": {
+            "H": 90,
+            "A": 120,
+            "B": 100,
+            "C": 150,
+            "D": 120,
+            "S": 100
+        }
+    },
+    {
+        "num": 91,
+        "name": "パルシェン",
+        "en_name": "Cloyster",
+        "weight": 132.5,
+        "ketaguri": 100,
+        "type1": 2,
+        "type2": 5,
+        "status": {
+            "H": 50,
+            "A": 95,
+            "B": 180,
+            "C": 85,
+            "D": 45,
+            "S": 70
+        }
+    },
+    {
+        "num": 836,
+        "name": "パルスワン",
+        "en_name": "Boltund",
+        "weight": 34.0,
+        "ketaguri": 60,
+        "type1": 3,
+        "type2": null,
+        "status": {
+            "H": 69,
+            "A": 90,
+            "B": 60,
+            "C": 90,
+            "D": 60,
+            "S": 121
+        }
+    },
+    {
+        "num": 711,
+        "name": "パンプジン(普通)",
+        "en_name": "Gourgeist",
+        "weight": 12.5,
+        "ketaguri": 40,
+        "type1": 13,
+        "type2": 4,
+        "status": {
+            "H": 65,
+            "A": 90,
+            "B": 122,
+            "C": 58,
+            "D": 75,
+            "S": 84
+        }
+    },
+    {
+        "num": 711,
+        "name": "パンプジン(小)",
+        "en_name": "Gourgeist",
+        "weight": 12.5,
+        "ketaguri": 40,
+        "type1": 13,
+        "type2": 4,
+        "status": {
+            "H": 65,
+            "A": 90,
+            "B": 122,
+            "C": 58,
+            "D": 75,
+            "S": 84
+        }
+    },
+    {
+        "num": 711,
+        "name": "パンプジン(大)",
+        "en_name": "Gourgeist",
+        "weight": 12.5,
+        "ketaguri": 40,
+        "type1": 13,
+        "type2": 4,
+        "status": {
+            "H": 65,
+            "A": 90,
+            "B": 122,
+            "C": 58,
+            "D": 75,
+            "S": 84
+        }
+    },
+    {
+        "num": 711,
+        "name": "パンプジン(特大)",
+        "en_name": "Gourgeist",
+        "weight": 12.5,
+        "ketaguri": 40,
+        "type1": 13,
+        "type2": 4,
+        "status": {
+            "H": 65,
+            "A": 90,
+            "B": 122,
+            "C": 58,
+            "D": 75,
+            "S": 84
+        }
+    },
+    {
+        "num": 366,
+        "name": "パールル",
+        "en_name": "Clamperl",
+        "weight": 52.5,
+        "ketaguri": 80,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 35,
+            "A": 64,
+            "B": 85,
+            "C": 74,
+            "D": 55,
+            "S": 32
+        }
+    },
+    {
+        "num": 390,
+        "name": "ヒコザル",
+        "en_name": "Chimchar",
+        "weight": 6.2,
+        "ketaguri": 20,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 44,
+            "A": 58,
+            "B": 44,
+            "C": 58,
+            "D": 44,
+            "S": 61
+        }
+    },
+    {
+        "num": 4,
+        "name": "ヒトカゲ",
+        "en_name": "Charmander",
+        "weight": 8.5,
+        "ketaguri": 20,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 39,
+            "A": 52,
+            "B": 43,
+            "C": 60,
+            "D": 50,
+            "S": 65
+        }
+    },
+    {
+        "num": 679,
+        "name": "ヒトツキ",
+        "en_name": "Honedge",
+        "weight": 2.0,
+        "ketaguri": 20,
+        "type1": 16,
+        "type2": 13,
+        "status": {
+            "H": 45,
+            "A": 80,
+            "B": 100,
+            "C": 35,
+            "D": 37,
+            "S": 28
+        }
+    },
+    {
+        "num": 120,
+        "name": "ヒトデマン",
+        "en_name": "Staryu",
+        "weight": 34.5,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 30,
+            "A": 45,
+            "B": 55,
+            "C": 70,
+            "D": 55,
+            "S": 85
+        }
+    },
+    {
+        "num": 607,
+        "name": "ヒトモシ",
+        "en_name": "Litwick",
+        "weight": 3.1,
+        "ketaguri": 20,
+        "type1": 13,
+        "type2": 1,
+        "status": {
+            "H": 50,
+            "A": 30,
+            "B": 55,
+            "C": 65,
+            "D": 55,
+            "S": 20
+        }
+    },
+    {
+        "num": 747,
+        "name": "ヒドイデ",
+        "en_name": "Mareanie",
+        "weight": 8.0,
+        "ketaguri": 20,
+        "type1": 7,
+        "type2": 2,
+        "status": {
+            "H": 50,
+            "A": 53,
+            "B": 62,
+            "C": 43,
+            "D": 52,
+            "S": 45
+        }
+    },
+    {
+        "num": 155,
+        "name": "ヒノアラシ",
+        "en_name": "Cyndaquil",
+        "weight": 7.9,
+        "ketaguri": 20,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 39,
+            "A": 52,
+            "B": 43,
+            "C": 60,
+            "D": 50,
+            "S": 65
+        }
+    },
+    {
+        "num": 662,
+        "name": "ヒノヤコマ",
+        "en_name": "Fletchinder",
+        "weight": 16.0,
+        "ketaguri": 40,
+        "type1": 1,
+        "type2": 9,
+        "status": {
+            "H": 62,
+            "A": 73,
+            "B": 55,
+            "C": 56,
+            "D": 52,
+            "S": 84
+        }
+    },
+    {
+        "num": 813,
+        "name": "ヒバニー",
+        "en_name": "Scorbunny",
+        "weight": 4.5,
+        "ketaguri": 20,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 50,
+            "A": 71,
+            "B": 40,
+            "C": 40,
+            "D": 40,
+            "S": 69
+        }
+    },
+    {
+        "num": 555,
+        "name": "ヒヒダルマ(ガラル)",
+        "en_name": "Darmanitan",
+        "weight": 92.9,
+        "ketaguri": 80,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 105,
+            "A": 140,
+            "B": 55,
+            "C": 30,
+            "D": 55,
+            "S": 95
+        }
+    },
+    {
+        "num": 555,
+        "name": "ヒヒダルマ(ダルマ・ガラル)",
+        "en_name": "Darmanitan",
+        "weight": 92.9,
+        "ketaguri": 80,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 105,
+            "A": 140,
+            "B": 55,
+            "C": 30,
+            "D": 55,
+            "S": 95
+        }
+    },
+    {
+        "num": 555,
+        "name": "ヒヒダルマ",
+        "en_name": "Darmanitan",
+        "weight": 92.9,
+        "ketaguri": 80,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 105,
+            "A": 140,
+            "B": 55,
+            "C": 30,
+            "D": 55,
+            "S": 95
+        }
+    },
+    {
+        "num": 555,
+        "name": "ヒヒダルマ(ダルマ)",
+        "en_name": "Darmanitan",
+        "weight": 92.9,
+        "ketaguri": 80,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 105,
+            "A": 140,
+            "B": 55,
+            "C": 30,
+            "D": 55,
+            "S": 95
+        }
+    },
+    {
+        "num": 449,
+        "name": "ヒポポタス",
+        "en_name": "Hippopotas",
+        "weight": 49.5,
+        "ketaguri": 60,
+        "type1": 8,
+        "type2": null,
+        "status": {
+            "H": 68,
+            "A": 72,
+            "B": 78,
+            "C": 38,
+            "D": 42,
+            "S": 32
+        }
+    },
+    {
+        "num": 191,
+        "name": "ヒマナッツ",
+        "en_name": "Sunkern",
+        "weight": 1.8,
+        "ketaguri": 20,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 30,
+            "A": 30,
+            "B": 30,
+            "C": 30,
+            "D": 30,
+            "S": 30
+        }
+    },
+    {
+        "num": 216,
+        "name": "ヒメグマ",
+        "en_name": "Teddiursa",
+        "weight": 8.8,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 80,
+            "B": 50,
+            "C": 50,
+            "D": 50,
+            "S": 40
+        }
+    },
+    {
+        "num": 829,
+        "name": "ヒメンカ",
+        "en_name": "Gossifleur",
+        "weight": 2.2,
+        "ketaguri": 20,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 40,
+            "A": 40,
+            "B": 60,
+            "C": 40,
+            "D": 60,
+            "S": 10
+        }
+    },
+    {
+        "num": 516,
+        "name": "ヒヤッキー",
+        "en_name": "Simipour",
+        "weight": 29.0,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 75,
+            "A": 98,
+            "B": 63,
+            "C": 98,
+            "D": 63,
+            "S": 101
+        }
+    },
+    {
+        "num": 515,
+        "name": "ヒヤップ",
+        "en_name": "Panpour",
+        "weight": 13.5,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 50,
+            "A": 53,
+            "B": 48,
+            "C": 53,
+            "D": 48,
+            "S": 64
+        }
+    },
+    {
+        "num": 349,
+        "name": "ヒンバス",
+        "en_name": "Feebas",
+        "weight": 7.4,
+        "ketaguri": 20,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 20,
+            "A": 15,
+            "B": 20,
+            "C": 10,
+            "D": 55,
+            "S": 80
+        }
+    },
+    {
+        "num": 485,
+        "name": "ヒードラン",
+        "en_name": "Heatran",
+        "weight": 430.0,
+        "ketaguri": 120,
+        "type1": 1,
+        "type2": 16,
+        "status": {
+            "H": 91,
+            "A": 90,
+            "B": 106,
+            "C": 130,
+            "D": 106,
+            "S": 77
+        }
+    },
+    {
+        "num": 494,
+        "name": "ビクティニ",
+        "en_name": "Victini",
+        "weight": 4.0,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": 1,
+        "status": {
+            "H": 100,
+            "A": 100,
+            "B": 100,
+            "C": 100,
+            "D": 100,
+            "S": 100
+        }
+    },
+    {
+        "num": 399,
+        "name": "ビッパ",
+        "en_name": "Bidoof",
+        "weight": 20.0,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 59,
+            "A": 45,
+            "B": 40,
+            "C": 35,
+            "D": 40,
+            "S": 31
+        }
+    },
+    {
+        "num": 666,
+        "name": "ビビヨン",
+        "en_name": "Vivillon",
+        "weight": 17.0,
+        "ketaguri": 40,
+        "type1": 11,
+        "type2": 9,
+        "status": {
+            "H": 80,
+            "A": 52,
+            "B": 50,
+            "C": 90,
+            "D": 50,
+            "S": 89
+        }
+    },
+    {
+        "num": 329,
+        "name": "ビブラーバ",
+        "en_name": "Vibrava",
+        "weight": 15.3,
+        "ketaguri": 40,
+        "type1": 8,
+        "type2": 14,
+        "status": {
+            "H": 50,
+            "A": 70,
+            "B": 50,
+            "C": 50,
+            "D": 50,
+            "S": 70
+        }
+    },
+    {
+        "num": 640,
+        "name": "ビリジオン",
+        "en_name": "Virizion",
+        "weight": 200.0,
+        "ketaguri": 120,
+        "type1": 4,
+        "type2": 6,
+        "status": {
+            "H": 91,
+            "A": 90,
+            "B": 72,
+            "C": 90,
+            "D": 129,
+            "S": 108
+        }
+    },
+    {
+        "num": 100,
+        "name": "ビリリダマ",
+        "en_name": "Voltorb",
+        "weight": 10.4,
+        "ketaguri": 40,
+        "type1": 3,
+        "type2": null,
+        "status": {
+            "H": 40,
+            "A": 30,
+            "B": 50,
+            "C": 55,
+            "D": 55,
+            "S": 100
+        }
+    },
+    {
+        "num": 416,
+        "name": "ビークイン",
+        "en_name": "Vespiquen",
+        "weight": 38.5,
+        "ketaguri": 60,
+        "type1": 11,
+        "type2": 9,
+        "status": {
+            "H": 70,
+            "A": 80,
+            "B": 102,
+            "C": 80,
+            "D": 102,
+            "S": 40
+        }
+    },
+    {
+        "num": 400,
+        "name": "ビーダル",
+        "en_name": "Bibarel",
+        "weight": 31.5,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": 2,
+        "status": {
+            "H": 79,
+            "A": 85,
+            "B": 60,
+            "C": 55,
+            "D": 60,
+            "S": 71
+        }
+    },
+    {
+        "num": 13,
+        "name": "ビードル",
+        "en_name": "Weedle",
+        "weight": 3.2,
+        "ketaguri": 20,
+        "type1": 11,
+        "type2": 7,
+        "status": {
+            "H": 40,
+            "A": 35,
+            "B": 30,
+            "C": 20,
+            "D": 20,
+            "S": 50
+        }
+    },
+    {
+        "num": 173,
+        "name": "ピィ",
+        "en_name": "Cleffa",
+        "weight": 3.0,
+        "ketaguri": 20,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 50,
+            "A": 25,
+            "B": 28,
+            "C": 45,
+            "D": 55,
+            "S": 15
+        }
+    },
+    {
+        "num": 25,
+        "name": "ピカチュウ",
+        "en_name": "Pikachu",
+        "weight": 6.0,
+        "ketaguri": 20,
+        "type1": 3,
+        "type2": null,
+        "status": {
+            "H": 35,
+            "A": 55,
+            "B": 40,
+            "C": 50,
+            "D": 50,
+            "S": 90
+        }
+    },
+    {
+        "num": 36,
+        "name": "ピクシー",
+        "en_name": "Clefable",
+        "weight": 40.0,
+        "ketaguri": 60,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 95,
+            "A": 70,
+            "B": 73,
+            "C": 95,
+            "D": 90,
+            "S": 60
+        }
+    },
+    {
+        "num": 18,
+        "name": "ピジョット",
+        "en_name": "Pidgeot",
+        "weight": 39.5,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": 9,
+        "status": {
+            "H": 83,
+            "A": 80,
+            "B": 75,
+            "C": 70,
+            "D": 70,
+            "S": 101
+        }
+    },
+    {
+        "num": 18,
+        "name": "メガピジョット",
+        "en_name": "Pidgeot",
+        "weight": 39.5,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": 9,
+        "status": {
+            "H": 83,
+            "A": 80,
+            "B": 75,
+            "C": 70,
+            "D": 70,
+            "S": 101
+        }
+    },
+    {
+        "num": 17,
+        "name": "ピジョン",
+        "en_name": "Pidgeotto",
+        "weight": 30.0,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": 9,
+        "status": {
+            "H": 63,
+            "A": 60,
+            "B": 55,
+            "C": 50,
+            "D": 50,
+            "S": 71
+        }
+    },
+    {
+        "num": 172,
+        "name": "ピチュー",
+        "en_name": "Pichu",
+        "weight": 2.0,
+        "ketaguri": 20,
+        "type1": 3,
+        "type2": null,
+        "status": {
+            "H": 20,
+            "A": 40,
+            "B": 15,
+            "C": 35,
+            "D": 35,
+            "S": 60
+        }
+    },
+    {
+        "num": 35,
+        "name": "ピッピ",
+        "en_name": "Clefairy",
+        "weight": 7.5,
+        "ketaguri": 20,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 70,
+            "A": 45,
+            "B": 48,
+            "C": 60,
+            "D": 65,
+            "S": 35
+        }
+    },
+    {
+        "num": 440,
+        "name": "ピンプク",
+        "en_name": "Happiny",
+        "weight": 24.4,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 100,
+            "A": 5,
+            "B": 5,
+            "C": 15,
+            "D": 65,
+            "S": 30
+        }
+    },
+    {
+        "num": 663,
+        "name": "ファイアロー",
+        "en_name": "Talonflame",
+        "weight": 24.5,
+        "ketaguri": 40,
+        "type1": 1,
+        "type2": 9,
+        "status": {
+            "H": 78,
+            "A": 81,
+            "B": 71,
+            "C": 74,
+            "D": 69,
+            "S": 126
+        }
+    },
+    {
+        "num": 146,
+        "name": "ファイヤー",
+        "en_name": "Moltres",
+        "weight": 60.0,
+        "ketaguri": 80,
+        "type1": 1,
+        "type2": 9,
+        "status": {
+            "H": 90,
+            "A": 100,
+            "B": 90,
+            "C": 125,
+            "D": 85,
+            "S": 90
+        }
+    },
+    {
+        "num": 146,
+        "name": "ファイヤー(ガラル)",
+        "en_name": "Moltres",
+        "weight": 60.0,
+        "ketaguri": 80,
+        "type1": 1,
+        "type2": 9,
+        "status": {
+            "H": 90,
+            "A": 100,
+            "B": 90,
+            "C": 125,
+            "D": 85,
+            "S": 90
+        }
+    },
+    {
+        "num": 489,
+        "name": "フィオネ",
+        "en_name": "Phione",
+        "weight": 3.1,
+        "ketaguri": 20,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 80,
+            "A": 80,
+            "B": 80,
+            "C": 80,
+            "D": 80,
+            "S": 80
+        }
+    },
+    {
+        "num": 795,
+        "name": "フェローチェ",
+        "en_name": "Pheromosa",
+        "weight": 25.0,
+        "ketaguri": 60,
+        "type1": 11,
+        "type2": 6,
+        "status": {
+            "H": 71,
+            "A": 137,
+            "B": 37,
+            "C": 137,
+            "D": 37,
+            "S": 151
+        }
+    },
+    {
+        "num": 828,
+        "name": "フォクスライ",
+        "en_name": "Thievul",
+        "weight": 19.9,
+        "ketaguri": 40,
+        "type1": 15,
+        "type2": null,
+        "status": {
+            "H": 70,
+            "A": 58,
+            "B": 58,
+            "C": 87,
+            "D": 92,
+            "S": 90
+        }
+    },
+    {
+        "num": 653,
+        "name": "フォッコ",
+        "en_name": "Fennekin",
+        "weight": 9.4,
+        "ketaguri": 20,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 40,
+            "A": 45,
+            "B": 40,
+            "C": 62,
+            "D": 60,
+            "S": 60
+        }
+    },
+    {
+        "num": 205,
+        "name": "フォレトス",
+        "en_name": "Forretress",
+        "weight": 125.8,
+        "ketaguri": 100,
+        "type1": 11,
+        "type2": 16,
+        "status": {
+            "H": 75,
+            "A": 90,
+            "B": 140,
+            "C": 60,
+            "D": 60,
+            "S": 40
+        }
+    },
+    {
+        "num": 443,
+        "name": "フカマル",
+        "en_name": "Gible",
+        "weight": 20.5,
+        "ketaguri": 40,
+        "type1": 14,
+        "type2": 8,
+        "status": {
+            "H": 58,
+            "A": 70,
+            "B": 45,
+            "C": 40,
+            "D": 45,
+            "S": 42
+        }
+    },
+    {
+        "num": 723,
+        "name": "フクスロー",
+        "en_name": "Dartrix",
+        "weight": 16.0,
+        "ketaguri": 40,
+        "type1": 4,
+        "type2": 9,
+        "status": {
+            "H": 78,
+            "A": 75,
+            "B": 75,
+            "C": 70,
+            "D": 70,
+            "S": 52
+        }
+    },
+    {
+        "num": 2,
+        "name": "フシギソウ",
+        "en_name": "Ivysaur",
+        "weight": 13.0,
+        "ketaguri": 40,
+        "type1": 4,
+        "type2": 7,
+        "status": {
+            "H": 60,
+            "A": 62,
+            "B": 63,
+            "C": 80,
+            "D": 80,
+            "S": 60
+        }
+    },
+    {
+        "num": 1,
+        "name": "フシギダネ",
+        "en_name": "Bulbasaur",
+        "weight": 6.9,
+        "ketaguri": 20,
+        "type1": 4,
+        "type2": 7,
+        "status": {
+            "H": 45,
+            "A": 49,
+            "B": 49,
+            "C": 65,
+            "D": 65,
+            "S": 45
+        }
+    },
+    {
+        "num": 3,
+        "name": "フシギバナ",
+        "en_name": "Venusaur",
+        "weight": 100.0,
+        "ketaguri": 100,
+        "type1": 4,
+        "type2": 7,
+        "status": {
+            "H": 80,
+            "A": 82,
+            "B": 83,
+            "C": 100,
+            "D": 100,
+            "S": 80
+        }
+    },
+    {
+        "num": 3,
+        "name": "メガフシギバナ",
+        "en_name": "Venusaur",
+        "weight": 100.0,
+        "ketaguri": 100,
+        "type1": 4,
+        "type2": 7,
+        "status": {
+            "H": 80,
+            "A": 82,
+            "B": 83,
+            "C": 100,
+            "D": 100,
+            "S": 80
+        }
+    },
+    {
+        "num": 543,
+        "name": "フシデ",
+        "en_name": "Venipede",
+        "weight": 5.3,
+        "ketaguri": 20,
+        "type1": 11,
+        "type2": 7,
+        "status": {
+            "H": 30,
+            "A": 45,
+            "B": 59,
+            "C": 30,
+            "D": 39,
+            "S": 57
+        }
+    },
+    {
+        "num": 502,
+        "name": "フタチマル",
+        "en_name": "Dewott",
+        "weight": 24.5,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 75,
+            "A": 75,
+            "B": 60,
+            "C": 83,
+            "D": 60,
+            "S": 60
+        }
+    },
+    {
+        "num": 330,
+        "name": "フライゴン",
+        "en_name": "Flygon",
+        "weight": 82.0,
+        "ketaguri": 80,
+        "type1": 8,
+        "type2": 14,
+        "status": {
+            "H": 80,
+            "A": 100,
+            "B": 80,
+            "C": 80,
+            "D": 80,
+            "S": 100
+        }
+    },
+    {
+        "num": 670,
+        "name": "フラエッテ",
+        "en_name": "Floette",
+        "weight": 0.9,
+        "ketaguri": 20,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 54,
+            "A": 45,
+            "B": 47,
+            "C": 75,
+            "D": 98,
+            "S": 52
+        }
+    },
+    {
+        "num": 669,
+        "name": "フラベベ",
+        "en_name": "Flabebe",
+        "weight": 0.1,
+        "ketaguri": 20,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 44,
+            "A": 38,
+            "B": 39,
+            "C": 61,
+            "D": 79,
+            "S": 42
+        }
+    },
+    {
+        "num": 671,
+        "name": "フラージェス",
+        "en_name": "Florges",
+        "weight": 10.0,
+        "ketaguri": 40,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 78,
+            "A": 65,
+            "B": 68,
+            "C": 112,
+            "D": 154,
+            "S": 75
+        }
+    },
+    {
+        "num": 144,
+        "name": "フリーザー",
+        "en_name": "Articuno",
+        "weight": 55.4,
+        "ketaguri": 80,
+        "type1": 5,
+        "type2": 9,
+        "status": {
+            "H": 90,
+            "A": 85,
+            "B": 100,
+            "C": 95,
+            "D": 125,
+            "S": 85
+        }
+    },
+    {
+        "num": 144,
+        "name": "フリーザー(ガラル)",
+        "en_name": "Articuno",
+        "weight": 55.4,
+        "ketaguri": 80,
+        "type1": 5,
+        "type2": 9,
+        "status": {
+            "H": 90,
+            "A": 85,
+            "B": 100,
+            "C": 95,
+            "D": 125,
+            "S": 85
+        }
+    },
+    {
+        "num": 615,
+        "name": "フリージオ",
+        "en_name": "Cryogonal",
+        "weight": 148.0,
+        "ketaguri": 100,
+        "type1": 5,
+        "type2": null,
+        "status": {
+            "H": 80,
+            "A": 50,
+            "B": 50,
+            "C": 95,
+            "D": 135,
+            "S": 105
+        }
+    },
+    {
+        "num": 683,
+        "name": "フレフワン",
+        "en_name": "Aromatisse",
+        "weight": 15.5,
+        "ketaguri": 40,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 101,
+            "A": 72,
+            "B": 72,
+            "C": 99,
+            "D": 89,
+            "S": 29
+        }
+    },
+    {
+        "num": 419,
+        "name": "フローゼル",
+        "en_name": "Floatzel",
+        "weight": 33.5,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 85,
+            "A": 105,
+            "B": 55,
+            "C": 85,
+            "D": 50,
+            "S": 115
+        }
+    },
+    {
+        "num": 426,
+        "name": "フワライド",
+        "en_name": "Drifblim",
+        "weight": 15.0,
+        "ketaguri": 40,
+        "type1": 13,
+        "type2": 9,
+        "status": {
+            "H": 150,
+            "A": 80,
+            "B": 44,
+            "C": 90,
+            "D": 54,
+            "S": 80
+        }
+    },
+    {
+        "num": 425,
+        "name": "フワンテ",
+        "en_name": "Drifloon",
+        "weight": 1.2,
+        "ketaguri": 20,
+        "type1": 13,
+        "type2": 9,
+        "status": {
+            "H": 90,
+            "A": 50,
+            "B": 34,
+            "C": 60,
+            "D": 44,
+            "S": 70
+        }
+    },
+    {
+        "num": 65,
+        "name": "フーディン",
+        "en_name": "Alakazam",
+        "weight": 48.0,
+        "ketaguri": 60,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 55,
+            "A": 50,
+            "B": 45,
+            "C": 135,
+            "D": 95,
+            "S": 120
+        }
+    },
+    {
+        "num": 65,
+        "name": "メガフーディン",
+        "en_name": "Alakazam",
+        "weight": 48.0,
+        "ketaguri": 60,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 55,
+            "A": 50,
+            "B": 45,
+            "C": 135,
+            "D": 95,
+            "S": 120
+        }
+    },
+    {
+        "num": 720,
+        "name": "フーパ(いましめ)",
+        "en_name": "Hoopa",
+        "weight": 9.0,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": 13,
+        "status": {
+            "H": 80,
+            "A": 110,
+            "B": 60,
+            "C": 150,
+            "D": 130,
+            "S": 70
+        }
+    },
+    {
+        "num": 720,
+        "name": "フーパ(ときはな)",
+        "en_name": "Hoopa",
+        "weight": 9.0,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": 13,
+        "status": {
+            "H": 80,
+            "A": 110,
+            "B": 60,
+            "C": 150,
+            "D": 130,
+            "S": 70
+        }
+    },
+    {
+        "num": 418,
+        "name": "ブイゼル",
+        "en_name": "Buizel",
+        "weight": 29.5,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 55,
+            "A": 65,
+            "B": 35,
+            "C": 60,
+            "D": 30,
+            "S": 85
+        }
+    },
+    {
+        "num": 432,
+        "name": "ブニャット",
+        "en_name": "Purugly",
+        "weight": 43.8,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 71,
+            "A": 82,
+            "B": 64,
+            "C": 64,
+            "D": 59,
+            "S": 112
+        }
+    },
+    {
+        "num": 240,
+        "name": "ブビィ",
+        "en_name": "Magby",
+        "weight": 21.4,
+        "ketaguri": 40,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 45,
+            "A": 75,
+            "B": 37,
+            "C": 70,
+            "D": 55,
+            "S": 83
+        }
+    },
+    {
+        "num": 197,
+        "name": "ブラッキー",
+        "en_name": "Umbreon",
+        "weight": 27.0,
+        "ketaguri": 60,
+        "type1": 15,
+        "type2": null,
+        "status": {
+            "H": 95,
+            "A": 65,
+            "B": 110,
+            "C": 60,
+            "D": 130,
+            "S": 65
+        }
+    },
+    {
+        "num": 652,
+        "name": "ブリガロン",
+        "en_name": "Chesnaught",
+        "weight": 90.0,
+        "ketaguri": 80,
+        "type1": 4,
+        "type2": 6,
+        "status": {
+            "H": 88,
+            "A": 107,
+            "B": 122,
+            "C": 74,
+            "D": 75,
+            "S": 64
+        }
+    },
+    {
+        "num": 896,
+        "name": "ブリザポス",
+        "en_name": "Glastrier",
+        "weight": 800.0,
+        "ketaguri": 120,
+        "type1": 5,
+        "type2": null,
+        "status": {
+            "H": 100,
+            "A": 145,
+            "B": 130,
+            "C": 65,
+            "D": 110,
+            "S": 30
+        }
+    },
+    {
+        "num": 858,
+        "name": "ブリムオン",
+        "en_name": "Hatterene",
+        "weight": 5.1,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": 17,
+        "status": {
+            "H": 57,
+            "A": 90,
+            "B": 95,
+            "C": 136,
+            "D": 103,
+            "S": 29
+        }
+    },
+    {
+        "num": 593,
+        "name": "ブルンゲル",
+        "en_name": "Jellicent",
+        "weight": 135.0,
+        "ketaguri": 100,
+        "type1": 2,
+        "type2": 13,
+        "status": {
+            "H": 100,
+            "A": 60,
+            "B": 70,
+            "C": 85,
+            "D": 105,
+            "S": 60
+        }
+    },
+    {
+        "num": 209,
+        "name": "ブルー",
+        "en_name": "Snubbull",
+        "weight": 7.8,
+        "ketaguri": 20,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 80,
+            "B": 50,
+            "C": 40,
+            "D": 40,
+            "S": 30
+        }
+    },
+    {
+        "num": 693,
+        "name": "ブロスター",
+        "en_name": "Clawitzer",
+        "weight": 35.3,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 71,
+            "A": 73,
+            "B": 88,
+            "C": 120,
+            "D": 89,
+            "S": 59
+        }
+    },
+    {
+        "num": 136,
+        "name": "ブースター",
+        "en_name": "Flareon",
+        "weight": 25.0,
+        "ketaguri": 60,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 130,
+            "B": 60,
+            "C": 95,
+            "D": 110,
+            "S": 65
+        }
+    },
+    {
+        "num": 126,
+        "name": "ブーバー",
+        "en_name": "Magmar",
+        "weight": 44.5,
+        "ketaguri": 60,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 95,
+            "B": 57,
+            "C": 100,
+            "D": 85,
+            "S": 93
+        }
+    },
+    {
+        "num": 467,
+        "name": "ブーバーン",
+        "en_name": "Magmortar",
+        "weight": 68.0,
+        "ketaguri": 80,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 75,
+            "A": 95,
+            "B": 67,
+            "C": 125,
+            "D": 95,
+            "S": 83
+        }
+    },
+    {
+        "num": 326,
+        "name": "ブーピッグ",
+        "en_name": "Grumpig",
+        "weight": 71.5,
+        "ketaguri": 80,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 80,
+            "A": 45,
+            "B": 65,
+            "C": 90,
+            "D": 110,
+            "S": 80
+        }
+    },
+    {
+        "num": 40,
+        "name": "プクリン",
+        "en_name": "Wigglytuff",
+        "weight": 12.0,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": 17,
+        "status": {
+            "H": 140,
+            "A": 70,
+            "B": 45,
+            "C": 85,
+            "D": 50,
+            "S": 45
+        }
+    },
+    {
+        "num": 142,
+        "name": "プテラ",
+        "en_name": "Aerodactyl",
+        "weight": 59.0,
+        "ketaguri": 80,
+        "type1": 12,
+        "type2": 9,
+        "status": {
+            "H": 80,
+            "A": 105,
+            "B": 65,
+            "C": 60,
+            "D": 75,
+            "S": 130
+        }
+    },
+    {
+        "num": 142,
+        "name": "メガプテラ",
+        "en_name": "Aerodactyl",
+        "weight": 59.0,
+        "ketaguri": 80,
+        "type1": 12,
+        "type2": 9,
+        "status": {
+            "H": 80,
+            "A": 105,
+            "B": 65,
+            "C": 60,
+            "D": 75,
+            "S": 130
+        }
+    },
+    {
+        "num": 174,
+        "name": "ププリン",
+        "en_name": "Igglybuff",
+        "weight": 1.0,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": 17,
+        "status": {
+            "H": 90,
+            "A": 30,
+            "B": 15,
+            "C": 40,
+            "D": 20,
+            "S": 15
+        }
+    },
+    {
+        "num": 311,
+        "name": "プラスル",
+        "en_name": "Plusle",
+        "weight": 4.2,
+        "ketaguri": 20,
+        "type1": 3,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 50,
+            "B": 40,
+            "C": 85,
+            "D": 75,
+            "S": 95
+        }
+    },
+    {
+        "num": 39,
+        "name": "プリン",
+        "en_name": "Jigglypuff",
+        "weight": 5.5,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": 17,
+        "status": {
+            "H": 115,
+            "A": 45,
+            "B": 20,
+            "C": 45,
+            "D": 25,
+            "S": 20
+        }
+    },
+    {
+        "num": 592,
+        "name": "プルリル",
+        "en_name": "Frillish",
+        "weight": 33.0,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": 13,
+        "status": {
+            "H": 55,
+            "A": 40,
+            "B": 50,
+            "C": 65,
+            "D": 85,
+            "S": 40
+        }
+    },
+    {
+        "num": 564,
+        "name": "プロトーガ",
+        "en_name": "Tirtouga",
+        "weight": 16.5,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": 12,
+        "status": {
+            "H": 54,
+            "A": 78,
+            "B": 103,
+            "C": 53,
+            "D": 45,
+            "S": 22
+        }
+    },
+    {
+        "num": 341,
+        "name": "ヘイガニ",
+        "en_name": "Corphish",
+        "weight": 11.5,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 43,
+            "A": 80,
+            "B": 65,
+            "C": 50,
+            "D": 35,
+            "S": 35
+        }
+    },
+    {
+        "num": 214,
+        "name": "ヘラクロス",
+        "en_name": "Heracross",
+        "weight": 54.0,
+        "ketaguri": 80,
+        "type1": 11,
+        "type2": 6,
+        "status": {
+            "H": 80,
+            "A": 125,
+            "B": 75,
+            "C": 40,
+            "D": 95,
+            "S": 85
+        }
+    },
+    {
+        "num": 214,
+        "name": "メガヘラクロス",
+        "en_name": "Heracross",
+        "weight": 54.0,
+        "ketaguri": 80,
+        "type1": 11,
+        "type2": 6,
+        "status": {
+            "H": 80,
+            "A": 125,
+            "B": 75,
+            "C": 40,
+            "D": 95,
+            "S": 85
+        }
+    },
+    {
+        "num": 229,
+        "name": "ヘルガー",
+        "en_name": "Houndoom",
+        "weight": 35.0,
+        "ketaguri": 60,
+        "type1": 15,
+        "type2": 1,
+        "status": {
+            "H": 75,
+            "A": 90,
+            "B": 50,
+            "C": 110,
+            "D": 80,
+            "S": 95
+        }
+    },
+    {
+        "num": 229,
+        "name": "メガヘルガー",
+        "en_name": "Houndoom",
+        "weight": 35.0,
+        "ketaguri": 60,
+        "type1": 15,
+        "type2": 1,
+        "status": {
+            "H": 75,
+            "A": 90,
+            "B": 50,
+            "C": 110,
+            "D": 80,
+            "S": 95
+        }
+    },
+    {
+        "num": 153,
+        "name": "ベイリーフ",
+        "en_name": "Bayleef",
+        "weight": 15.8,
+        "ketaguri": 40,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 62,
+            "B": 80,
+            "C": 63,
+            "D": 80,
+            "S": 60
+        }
+    },
+    {
+        "num": 88,
+        "name": "ベトベター",
+        "en_name": "Grimer",
+        "weight": 30.0,
+        "ketaguri": 60,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 80,
+            "A": 80,
+            "B": 50,
+            "C": 40,
+            "D": 50,
+            "S": 25
+        }
+    },
+    {
+        "num": 88,
+        "name": "ベトベター(アローラ)",
+        "en_name": "Grimer",
+        "weight": 30.0,
+        "ketaguri": 60,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 80,
+            "A": 80,
+            "B": 50,
+            "C": 40,
+            "D": 50,
+            "S": 25
+        }
+    },
+    {
+        "num": 89,
+        "name": "ベトベトン",
+        "en_name": "Muk",
+        "weight": 30.0,
+        "ketaguri": 60,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 105,
+            "A": 105,
+            "B": 75,
+            "C": 65,
+            "D": 100,
+            "S": 50
+        }
+    },
+    {
+        "num": 89,
+        "name": "ベトベトン(アローラ)",
+        "en_name": "Muk",
+        "weight": 30.0,
+        "ketaguri": 60,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 105,
+            "A": 105,
+            "B": 75,
+            "C": 65,
+            "D": 100,
+            "S": 50
+        }
+    },
+    {
+        "num": 803,
+        "name": "ベベノム",
+        "en_name": "Poipole",
+        "weight": 1.8,
+        "ketaguri": 20,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 67,
+            "A": 73,
+            "B": 67,
+            "C": 73,
+            "D": 67,
+            "S": 73
+        }
+    },
+    {
+        "num": 859,
+        "name": "ベロバー",
+        "en_name": "Impidimp",
+        "weight": 5.5,
+        "ketaguri": 20,
+        "type1": 15,
+        "type2": 17,
+        "status": {
+            "H": 45,
+            "A": 45,
+            "B": 30,
+            "C": 55,
+            "D": 40,
+            "S": 50
+        }
+    },
+    {
+        "num": 463,
+        "name": "ベロベルト",
+        "en_name": "Lickilicky",
+        "weight": 140.0,
+        "ketaguri": 100,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 110,
+            "A": 85,
+            "B": 95,
+            "C": 80,
+            "D": 95,
+            "S": 50
+        }
+    },
+    {
+        "num": 108,
+        "name": "ベロリンガ",
+        "en_name": "Lickitung",
+        "weight": 65.5,
+        "ketaguri": 80,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 90,
+            "A": 55,
+            "B": 75,
+            "C": 60,
+            "D": 75,
+            "S": 30
+        }
+    },
+    {
+        "num": 441,
+        "name": "ペラップ",
+        "en_name": "Chatot",
+        "weight": 1.9,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": 9,
+        "status": {
+            "H": 76,
+            "A": 65,
+            "B": 45,
+            "C": 92,
+            "D": 42,
+            "S": 91
+        }
+    },
+    {
+        "num": 279,
+        "name": "ペリッパー",
+        "en_name": "Pelipper",
+        "weight": 28.0,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": 9,
+        "status": {
+            "H": 60,
+            "A": 50,
+            "B": 100,
+            "C": 95,
+            "D": 70,
+            "S": 65
+        }
+    },
+    {
+        "num": 53,
+        "name": "ペルシアン",
+        "en_name": "Persian",
+        "weight": 32.0,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 70,
+            "B": 60,
+            "C": 65,
+            "D": 65,
+            "S": 115
+        }
+    },
+    {
+        "num": 53,
+        "name": "ペルシアン(アローラ)",
+        "en_name": "Persian",
+        "weight": 32.0,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 70,
+            "B": 60,
+            "C": 65,
+            "D": 65,
+            "S": 115
+        }
+    },
+    {
+        "num": 684,
+        "name": "ペロッパフ",
+        "en_name": "Swirlix",
+        "weight": 3.5,
+        "ketaguri": 20,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 62,
+            "A": 48,
+            "B": 66,
+            "C": 59,
+            "D": 57,
+            "S": 49
+        }
+    },
+    {
+        "num": 685,
+        "name": "ペロリーム",
+        "en_name": "Slurpuff",
+        "weight": 5.0,
+        "ketaguri": 20,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 82,
+            "A": 80,
+            "B": 86,
+            "C": 85,
+            "D": 75,
+            "S": 72
+        }
+    },
+    {
+        "num": 545,
+        "name": "ペンドラー",
+        "en_name": "Scolipede",
+        "weight": 200.5,
+        "ketaguri": 120,
+        "type1": 11,
+        "type2": 7,
+        "status": {
+            "H": 60,
+            "A": 100,
+            "B": 89,
+            "C": 55,
+            "D": 69,
+            "S": 112
+        }
+    },
+    {
+        "num": 544,
+        "name": "ホイーガ",
+        "en_name": "Whirlipede",
+        "weight": 58.5,
+        "ketaguri": 80,
+        "type1": 11,
+        "type2": 7,
+        "status": {
+            "H": 40,
+            "A": 55,
+            "B": 99,
+            "C": 40,
+            "D": 79,
+            "S": 47
+        }
+    },
+    {
+        "num": 250,
+        "name": "ホウオウ",
+        "en_name": "Ho-Oh",
+        "weight": 199.0,
+        "ketaguri": 100,
+        "type1": 1,
+        "type2": 9,
+        "status": {
+            "H": 106,
+            "A": 130,
+            "B": 90,
+            "C": 110,
+            "D": 154,
+            "S": 90
+        }
+    },
+    {
+        "num": 321,
+        "name": "ホエルオー",
+        "en_name": "Wailord",
+        "weight": 398.0,
+        "ketaguri": 120,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 170,
+            "A": 90,
+            "B": 45,
+            "C": 90,
+            "D": 45,
+            "S": 60
+        }
+    },
+    {
+        "num": 320,
+        "name": "ホエルコ",
+        "en_name": "Wailmer",
+        "weight": 130.0,
+        "ketaguri": 100,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 130,
+            "A": 70,
+            "B": 35,
+            "C": 70,
+            "D": 35,
+            "S": 60
+        }
+    },
+    {
+        "num": 819,
+        "name": "ホシガリス",
+        "en_name": "Skwovet",
+        "weight": 2.5,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 70,
+            "A": 55,
+            "B": 55,
+            "C": 35,
+            "D": 35,
+            "S": 25
+        }
+    },
+    {
+        "num": 659,
+        "name": "ホルビー",
+        "en_name": "Bunnelby",
+        "weight": 5.0,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 38,
+            "A": 36,
+            "B": 38,
+            "C": 32,
+            "D": 36,
+            "S": 57
+        }
+    },
+    {
+        "num": 660,
+        "name": "ホルード",
+        "en_name": "Diggersby",
+        "weight": 42.4,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": 8,
+        "status": {
+            "H": 85,
+            "A": 56,
+            "B": 77,
+            "C": 50,
+            "D": 77,
+            "S": 78
+        }
+    },
+    {
+        "num": 163,
+        "name": "ホーホー",
+        "en_name": "Hoothoot",
+        "weight": 21.2,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": 9,
+        "status": {
+            "H": 60,
+            "A": 30,
+            "B": 30,
+            "C": 36,
+            "D": 56,
+            "S": 50
+        }
+    },
+    {
+        "num": 708,
+        "name": "ボクレー",
+        "en_name": "Phantump",
+        "weight": 7.0,
+        "ketaguri": 20,
+        "type1": 13,
+        "type2": 4,
+        "status": {
+            "H": 43,
+            "A": 70,
+            "B": 48,
+            "C": 50,
+            "D": 60,
+            "S": 38
+        }
+    },
+    {
+        "num": 306,
+        "name": "ボスゴドラ",
+        "en_name": "Aggron",
+        "weight": 360.0,
+        "ketaguri": 120,
+        "type1": 16,
+        "type2": 12,
+        "status": {
+            "H": 70,
+            "A": 110,
+            "B": 180,
+            "C": 60,
+            "D": 60,
+            "S": 50
+        }
+    },
+    {
+        "num": 306,
+        "name": "メガボスゴドラ",
+        "en_name": "Aggron",
+        "weight": 360.0,
+        "ketaguri": 120,
+        "type1": 16,
+        "type2": 12,
+        "status": {
+            "H": 70,
+            "A": 110,
+            "B": 180,
+            "C": 60,
+            "D": 60,
+            "S": 50
+        }
+    },
+    {
+        "num": 721,
+        "name": "ボルケニオン",
+        "en_name": "Volcanion",
+        "weight": 195.0,
+        "ketaguri": 100,
+        "type1": 1,
+        "type2": 2,
+        "status": {
+            "H": 80,
+            "A": 110,
+            "B": 120,
+            "C": 130,
+            "D": 90,
+            "S": 70
+        }
+    },
+    {
+        "num": 642,
+        "name": "ボルトロス(化身)",
+        "en_name": "Thundurus",
+        "weight": 61.0,
+        "ketaguri": 80,
+        "type1": 3,
+        "type2": 9,
+        "status": {
+            "H": 79,
+            "A": 115,
+            "B": 70,
+            "C": 125,
+            "D": 80,
+            "S": 111
+        }
+    },
+    {
+        "num": 642,
+        "name": "ボルトロス(霊獣)",
+        "en_name": "Thundurus",
+        "weight": 61.0,
+        "ketaguri": 80,
+        "type1": 3,
+        "type2": 9,
+        "status": {
+            "H": 79,
+            "A": 115,
+            "B": 70,
+            "C": 125,
+            "D": 80,
+            "S": 111
+        }
+    },
+    {
+        "num": 373,
+        "name": "ボーマンダ",
+        "en_name": "Salamence",
+        "weight": 102.6,
+        "ketaguri": 100,
+        "type1": 14,
+        "type2": 9,
+        "status": {
+            "H": 95,
+            "A": 135,
+            "B": 80,
+            "C": 110,
+            "D": 80,
+            "S": 100
+        }
+    },
+    {
+        "num": 373,
+        "name": "メガボーマンダ",
+        "en_name": "Salamence",
+        "weight": 102.6,
+        "ketaguri": 100,
+        "type1": 14,
+        "type2": 9,
+        "status": {
+            "H": 95,
+            "A": 135,
+            "B": 80,
+            "C": 110,
+            "D": 80,
+            "S": 100
+        }
+    },
+    {
+        "num": 498,
+        "name": "ポカブ",
+        "en_name": "Tepig",
+        "weight": 9.9,
+        "ketaguri": 20,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 63,
+            "B": 45,
+            "C": 45,
+            "D": 45,
+            "S": 45
+        }
+    },
+    {
+        "num": 261,
+        "name": "ポチエナ",
+        "en_name": "Poochyena",
+        "weight": 13.6,
+        "ketaguri": 40,
+        "type1": 15,
+        "type2": null,
+        "status": {
+            "H": 35,
+            "A": 55,
+            "B": 35,
+            "C": 30,
+            "D": 30,
+            "S": 35
+        }
+    },
+    {
+        "num": 394,
+        "name": "ポッタイシ",
+        "en_name": "Prinplup",
+        "weight": 23.0,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 64,
+            "A": 66,
+            "B": 68,
+            "C": 81,
+            "D": 76,
+            "S": 50
+        }
+    },
+    {
+        "num": 393,
+        "name": "ポッチャマ",
+        "en_name": "Piplup",
+        "weight": 5.2,
+        "ketaguri": 20,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 53,
+            "A": 51,
+            "B": 53,
+            "C": 61,
+            "D": 56,
+            "S": 40
+        }
+    },
+    {
+        "num": 855,
+        "name": "ポットデス",
+        "en_name": "Polteageist",
+        "weight": 0.4,
+        "ketaguri": 20,
+        "type1": 13,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 65,
+            "B": 65,
+            "C": 134,
+            "D": 114,
+            "S": 70
+        }
+    },
+    {
+        "num": 16,
+        "name": "ポッポ",
+        "en_name": "Pidgey",
+        "weight": 1.8,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": 9,
+        "status": {
+            "H": 40,
+            "A": 45,
+            "B": 40,
+            "C": 35,
+            "D": 35,
+            "S": 56
+        }
+    },
+    {
+        "num": 77,
+        "name": "ポニータ(ガラル)",
+        "en_name": "Ponyta",
+        "weight": 30.0,
+        "ketaguri": 60,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 50,
+            "A": 85,
+            "B": 55,
+            "C": 65,
+            "D": 65,
+            "S": 90
+        }
+    },
+    {
+        "num": 77,
+        "name": "ポニータ",
+        "en_name": "Ponyta",
+        "weight": 30.0,
+        "ketaguri": 60,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 50,
+            "A": 85,
+            "B": 55,
+            "C": 65,
+            "D": 65,
+            "S": 90
+        }
+    },
+    {
+        "num": 188,
+        "name": "ポポッコ",
+        "en_name": "Skiploom",
+        "weight": 1.0,
+        "ketaguri": 20,
+        "type1": 4,
+        "type2": 9,
+        "status": {
+            "H": 55,
+            "A": 45,
+            "B": 50,
+            "C": 45,
+            "D": 65,
+            "S": 80
+        }
+    },
+    {
+        "num": 137,
+        "name": "ポリゴン",
+        "en_name": "Porygon",
+        "weight": 36.5,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 60,
+            "B": 70,
+            "C": 85,
+            "D": 75,
+            "S": 40
+        }
+    },
+    {
+        "num": 233,
+        "name": "ポリゴン2",
+        "en_name": "Porygon2",
+        "weight": 32.5,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 85,
+            "A": 80,
+            "B": 90,
+            "C": 105,
+            "D": 95,
+            "S": 60
+        }
+    },
+    {
+        "num": 474,
+        "name": "ポリゴンZ",
+        "en_name": "Porygon-Z",
+        "weight": 34.0,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 85,
+            "A": 80,
+            "B": 70,
+            "C": 135,
+            "D": 75,
+            "S": 90
+        }
+    },
+    {
+        "num": 351,
+        "name": "ポワルン(雪雲)",
+        "en_name": "Castform",
+        "weight": 0.8,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 70,
+            "A": 70,
+            "B": 70,
+            "C": 70,
+            "D": 70,
+            "S": 70
+        }
+    }
+]

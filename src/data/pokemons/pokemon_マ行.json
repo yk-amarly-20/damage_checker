@@ -1,0 +1,1736 @@
+[
+    {
+        "num": 312,
+        "name": "マイナン",
+        "en_name": "Minun",
+        "weight": 4.2,
+        "ketaguri": 20,
+        "type1": 3,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 40,
+            "B": 50,
+            "C": 75,
+            "D": 85,
+            "S": 95
+        }
+    },
+    {
+        "num": 801,
+        "name": "マギアナ",
+        "en_name": "Magearna",
+        "weight": 80.5,
+        "ketaguri": 80,
+        "type1": 16,
+        "type2": 17,
+        "status": {
+            "H": 80,
+            "A": 95,
+            "B": 115,
+            "C": 130,
+            "D": 115,
+            "S": 65
+        }
+    },
+    {
+        "num": 296,
+        "name": "マクノシタ",
+        "en_name": "Makuhita",
+        "weight": 86.4,
+        "ketaguri": 80,
+        "type1": 6,
+        "type2": null,
+        "status": {
+            "H": 72,
+            "A": 60,
+            "B": 30,
+            "C": 20,
+            "D": 30,
+            "S": 25
+        }
+    },
+    {
+        "num": 219,
+        "name": "マグカルゴ",
+        "en_name": "Magcargo",
+        "weight": 55.0,
+        "ketaguri": 80,
+        "type1": 1,
+        "type2": 12,
+        "status": {
+            "H": 60,
+            "A": 50,
+            "B": 120,
+            "C": 90,
+            "D": 80,
+            "S": 30
+        }
+    },
+    {
+        "num": 218,
+        "name": "マグマッグ",
+        "en_name": "Slugma",
+        "weight": 35.0,
+        "ketaguri": 60,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 40,
+            "A": 40,
+            "B": 40,
+            "C": 70,
+            "D": 40,
+            "S": 20
+        }
+    },
+    {
+        "num": 156,
+        "name": "マグマラシ",
+        "en_name": "Quilava",
+        "weight": 19.0,
+        "ketaguri": 40,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 58,
+            "A": 64,
+            "B": 58,
+            "C": 80,
+            "D": 65,
+            "S": 80
+        }
+    },
+    {
+        "num": 739,
+        "name": "マケンカニ",
+        "en_name": "Crabrawler",
+        "weight": 7.0,
+        "ketaguri": 20,
+        "type1": 6,
+        "type2": null,
+        "status": {
+            "H": 47,
+            "A": 82,
+            "B": 57,
+            "C": 42,
+            "D": 47,
+            "S": 63
+        }
+    },
+    {
+        "num": 756,
+        "name": "マシェード",
+        "en_name": "Shiinotic",
+        "weight": 11.5,
+        "ketaguri": 40,
+        "type1": 4,
+        "type2": 17,
+        "status": {
+            "H": 60,
+            "A": 45,
+            "B": 80,
+            "C": 90,
+            "D": 100,
+            "S": 30
+        }
+    },
+    {
+        "num": 455,
+        "name": "マスキッパ",
+        "en_name": "Carnivine",
+        "weight": 27.0,
+        "ketaguri": 60,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 74,
+            "A": 100,
+            "B": 72,
+            "C": 90,
+            "D": 72,
+            "S": 46
+        }
+    },
+    {
+        "num": 110,
+        "name": "マタドガス",
+        "en_name": "Weezing",
+        "weight": 9.5,
+        "ketaguri": 20,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 90,
+            "B": 120,
+            "C": 85,
+            "D": 70,
+            "S": 60
+        }
+    },
+    {
+        "num": 110,
+        "name": "マタドガス(ガラル)",
+        "en_name": "Weezing",
+        "weight": 9.5,
+        "ketaguri": 20,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 90,
+            "B": 120,
+            "C": 85,
+            "D": 70,
+            "S": 60
+        }
+    },
+    {
+        "num": 69,
+        "name": "マダツボミ",
+        "en_name": "Bellsprout",
+        "weight": 4.0,
+        "ketaguri": 20,
+        "type1": 4,
+        "type2": 7,
+        "status": {
+            "H": 50,
+            "A": 75,
+            "B": 35,
+            "C": 70,
+            "D": 30,
+            "S": 40
+        }
+    },
+    {
+        "num": 618,
+        "name": "マッギョ",
+        "en_name": "Stunfisk",
+        "weight": 11.0,
+        "ketaguri": 40,
+        "type1": 8,
+        "type2": 3,
+        "status": {
+            "H": 109,
+            "A": 66,
+            "B": 84,
+            "C": 81,
+            "D": 99,
+            "S": 32
+        }
+    },
+    {
+        "num": 618,
+        "name": "マッギョ(ガラル)",
+        "en_name": "Stunfisk",
+        "weight": 11.0,
+        "ketaguri": 40,
+        "type1": 8,
+        "type2": 3,
+        "status": {
+            "H": 109,
+            "A": 66,
+            "B": 84,
+            "C": 81,
+            "D": 99,
+            "S": 32
+        }
+    },
+    {
+        "num": 794,
+        "name": "マッシブーン",
+        "en_name": "Buzzwole",
+        "weight": 333.6,
+        "ketaguri": 120,
+        "type1": 11,
+        "type2": 6,
+        "status": {
+            "H": 107,
+            "A": 139,
+            "B": 139,
+            "C": 53,
+            "D": 53,
+            "S": 79
+        }
+    },
+    {
+        "num": 264,
+        "name": "マッスグマ(ガラル)",
+        "en_name": "Linoone",
+        "weight": 32.5,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 78,
+            "A": 70,
+            "B": 61,
+            "C": 50,
+            "D": 61,
+            "S": 100
+        }
+    },
+    {
+        "num": 264,
+        "name": "マッスグマ",
+        "en_name": "Linoone",
+        "weight": 32.5,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 78,
+            "A": 70,
+            "B": 61,
+            "C": 50,
+            "D": 61,
+            "S": 100
+        }
+    },
+    {
+        "num": 490,
+        "name": "マナフィ",
+        "en_name": "Manaphy",
+        "weight": 1.4,
+        "ketaguri": 20,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 100,
+            "A": 100,
+            "B": 100,
+            "C": 100,
+            "D": 100,
+            "S": 100
+        }
+    },
+    {
+        "num": 461,
+        "name": "マニューラ",
+        "en_name": "Weavile",
+        "weight": 34.0,
+        "ketaguri": 60,
+        "type1": 15,
+        "type2": 5,
+        "status": {
+            "H": 70,
+            "A": 120,
+            "B": 65,
+            "C": 45,
+            "D": 85,
+            "S": 125
+        }
+    },
+    {
+        "num": 439,
+        "name": "マネネ",
+        "en_name": "Mime Jr.",
+        "weight": 13.0,
+        "ketaguri": 40,
+        "type1": 10,
+        "type2": 17,
+        "status": {
+            "H": 20,
+            "A": 25,
+            "B": 45,
+            "C": 70,
+            "D": 90,
+            "S": 60
+        }
+    },
+    {
+        "num": 655,
+        "name": "マフォクシー",
+        "en_name": "Delphox",
+        "weight": 39.0,
+        "ketaguri": 60,
+        "type1": 1,
+        "type2": 10,
+        "status": {
+            "H": 75,
+            "A": 69,
+            "B": 72,
+            "C": 114,
+            "D": 100,
+            "S": 104
+        }
+    },
+    {
+        "num": 869,
+        "name": "マホイップ",
+        "en_name": "Alcremie",
+        "weight": 0.5,
+        "ketaguri": 20,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 60,
+            "B": 75,
+            "C": 110,
+            "D": 121,
+            "S": 64
+        }
+    },
+    {
+        "num": 868,
+        "name": "マホミル",
+        "en_name": "Milcery",
+        "weight": 0.3,
+        "ketaguri": 20,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 45,
+            "A": 40,
+            "B": 40,
+            "C": 50,
+            "D": 61,
+            "S": 34
+        }
+    },
+    {
+        "num": 594,
+        "name": "ママンボウ",
+        "en_name": "Alomomola",
+        "weight": 31.6,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 165,
+            "A": 75,
+            "B": 80,
+            "C": 40,
+            "D": 45,
+            "S": 65
+        }
+    },
+    {
+        "num": 519,
+        "name": "マメパト",
+        "en_name": "Pidove",
+        "weight": 2.1,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": 9,
+        "status": {
+            "H": 50,
+            "A": 55,
+            "B": 50,
+            "C": 36,
+            "D": 30,
+            "S": 43
+        }
+    },
+    {
+        "num": 268,
+        "name": "マユルド",
+        "en_name": "Cascoon",
+        "weight": 11.5,
+        "ketaguri": 40,
+        "type1": 11,
+        "type2": null,
+        "status": {
+            "H": 50,
+            "A": 35,
+            "B": 55,
+            "C": 25,
+            "D": 25,
+            "S": 15
+        }
+    },
+    {
+        "num": 556,
+        "name": "マラカッチ",
+        "en_name": "Maractus",
+        "weight": 28.0,
+        "ketaguri": 60,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 75,
+            "A": 86,
+            "B": 67,
+            "C": 106,
+            "D": 67,
+            "S": 60
+        }
+    },
+    {
+        "num": 183,
+        "name": "マリル",
+        "en_name": "Marill",
+        "weight": 8.5,
+        "ketaguri": 20,
+        "type1": 2,
+        "type2": 17,
+        "status": {
+            "H": 70,
+            "A": 20,
+            "B": 50,
+            "C": 20,
+            "D": 50,
+            "S": 40
+        }
+    },
+    {
+        "num": 184,
+        "name": "マリルリ",
+        "en_name": "Azumarill",
+        "weight": 28.5,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": 17,
+        "status": {
+            "H": 100,
+            "A": 50,
+            "B": 80,
+            "C": 60,
+            "D": 80,
+            "S": 50
+        }
+    },
+    {
+        "num": 317,
+        "name": "マルノーム",
+        "en_name": "Swalot",
+        "weight": 80.0,
+        "ketaguri": 80,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 100,
+            "A": 73,
+            "B": 83,
+            "C": 73,
+            "D": 83,
+            "S": 55
+        }
+    },
+    {
+        "num": 101,
+        "name": "マルマイン",
+        "en_name": "Electrode",
+        "weight": 66.6,
+        "ketaguri": 80,
+        "type1": 3,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 50,
+            "B": 70,
+            "C": 80,
+            "D": 80,
+            "S": 150
+        }
+    },
+    {
+        "num": 851,
+        "name": "マルヤクデ",
+        "en_name": "Centiskorch",
+        "weight": 120.0,
+        "ketaguri": 100,
+        "type1": 1,
+        "type2": 11,
+        "status": {
+            "H": 100,
+            "A": 115,
+            "B": 65,
+            "C": 90,
+            "D": 90,
+            "S": 65
+        }
+    },
+    {
+        "num": 56,
+        "name": "マンキー",
+        "en_name": "Mankey",
+        "weight": 28.0,
+        "ketaguri": 60,
+        "type1": 6,
+        "type2": null,
+        "status": {
+            "H": 40,
+            "A": 80,
+            "B": 35,
+            "C": 35,
+            "D": 45,
+            "S": 70
+        }
+    },
+    {
+        "num": 226,
+        "name": "マンタイン",
+        "en_name": "Mantine",
+        "weight": 220.0,
+        "ketaguri": 120,
+        "type1": 2,
+        "type2": 9,
+        "status": {
+            "H": 85,
+            "A": 40,
+            "B": 70,
+            "C": 80,
+            "D": 140,
+            "S": 70
+        }
+    },
+    {
+        "num": 473,
+        "name": "マンムー",
+        "en_name": "Mamoswine",
+        "weight": 291.0,
+        "ketaguri": 120,
+        "type1": 5,
+        "type2": 8,
+        "status": {
+            "H": 110,
+            "A": 130,
+            "B": 80,
+            "C": 70,
+            "D": 60,
+            "S": 80
+        }
+    },
+    {
+        "num": 686,
+        "name": "マーイーカ",
+        "en_name": "Inkay",
+        "weight": 3.5,
+        "ketaguri": 20,
+        "type1": 15,
+        "type2": 10,
+        "status": {
+            "H": 53,
+            "A": 54,
+            "B": 53,
+            "C": 37,
+            "D": 46,
+            "S": 45
+        }
+    },
+    {
+        "num": 802,
+        "name": "マーシャドー",
+        "en_name": "Marshadow",
+        "weight": 22.2,
+        "ketaguri": 40,
+        "type1": 6,
+        "type2": 13,
+        "status": {
+            "H": 90,
+            "A": 125,
+            "B": 80,
+            "C": 90,
+            "D": 90,
+            "S": 125
+        }
+    },
+    {
+        "num": 442,
+        "name": "ミカルゲ",
+        "en_name": "Spiritomb",
+        "weight": 108.0,
+        "ketaguri": 100,
+        "type1": 13,
+        "type2": 15,
+        "status": {
+            "H": 50,
+            "A": 92,
+            "B": 108,
+            "C": 92,
+            "D": 108,
+            "S": 35
+        }
+    },
+    {
+        "num": 501,
+        "name": "ミジュマル",
+        "en_name": "Oshawott",
+        "weight": 5.9,
+        "ketaguri": 20,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 55,
+            "A": 55,
+            "B": 45,
+            "C": 63,
+            "D": 45,
+            "S": 45
+        }
+    },
+    {
+        "num": 258,
+        "name": "ミズゴロウ",
+        "en_name": "Mudkip",
+        "weight": 7.6,
+        "ketaguri": 20,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 50,
+            "A": 70,
+            "B": 50,
+            "C": 50,
+            "D": 50,
+            "S": 40
+        }
+    },
+    {
+        "num": 415,
+        "name": "ミツハニー",
+        "en_name": "Combee",
+        "weight": 5.5,
+        "ketaguri": 20,
+        "type1": 11,
+        "type2": 9,
+        "status": {
+            "H": 30,
+            "A": 30,
+            "B": 42,
+            "C": 30,
+            "D": 42,
+            "S": 70
+        }
+    },
+    {
+        "num": 147,
+        "name": "ミニリュウ",
+        "en_name": "Dratini",
+        "weight": 3.3,
+        "ketaguri": 20,
+        "type1": 14,
+        "type2": null,
+        "status": {
+            "H": 41,
+            "A": 64,
+            "B": 45,
+            "C": 50,
+            "D": 50,
+            "S": 50
+        }
+    },
+    {
+        "num": 504,
+        "name": "ミネズミ",
+        "en_name": "Patrat",
+        "weight": 11.6,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 45,
+            "A": 55,
+            "B": 39,
+            "C": 35,
+            "D": 39,
+            "S": 42
+        }
+    },
+    {
+        "num": 413,
+        "name": "ミノマダム(くさき)",
+        "en_name": "Wormadam",
+        "weight": 6.5,
+        "ketaguri": 20,
+        "type1": 11,
+        "type2": 4,
+        "status": {
+            "H": 60,
+            "A": 59,
+            "B": 85,
+            "C": 79,
+            "D": 105,
+            "S": 36
+        }
+    },
+    {
+        "num": 413,
+        "name": "ミノマダム(すなち)",
+        "en_name": "Wormadam",
+        "weight": 6.5,
+        "ketaguri": 20,
+        "type1": 11,
+        "type2": 4,
+        "status": {
+            "H": 60,
+            "A": 59,
+            "B": 85,
+            "C": 79,
+            "D": 105,
+            "S": 36
+        }
+    },
+    {
+        "num": 413,
+        "name": "ミノマダム(ゴミ)",
+        "en_name": "Wormadam",
+        "weight": 6.5,
+        "ketaguri": 20,
+        "type1": 11,
+        "type2": 4,
+        "status": {
+            "H": 60,
+            "A": 59,
+            "B": 85,
+            "C": 79,
+            "D": 105,
+            "S": 36
+        }
+    },
+    {
+        "num": 412,
+        "name": "ミノムッチ",
+        "en_name": "Burmy",
+        "weight": 3.4,
+        "ketaguri": 20,
+        "type1": 11,
+        "type2": null,
+        "status": {
+            "H": 40,
+            "A": 29,
+            "B": 45,
+            "C": 29,
+            "D": 45,
+            "S": 36
+        }
+    },
+    {
+        "num": 856,
+        "name": "ミブリム",
+        "en_name": "Hatenna",
+        "weight": 3.4,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 42,
+            "A": 30,
+            "B": 45,
+            "C": 56,
+            "D": 53,
+            "S": 39
+        }
+    },
+    {
+        "num": 778,
+        "name": "ミミッキュ",
+        "en_name": "Mimikyu",
+        "weight": 0.7,
+        "ketaguri": 20,
+        "type1": 13,
+        "type2": 17,
+        "status": {
+            "H": 55,
+            "A": 90,
+            "B": 80,
+            "C": 50,
+            "D": 105,
+            "S": 96
+        }
+    },
+    {
+        "num": 428,
+        "name": "ミミロップ",
+        "en_name": "Lopunny",
+        "weight": 33.3,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 76,
+            "B": 84,
+            "C": 54,
+            "D": 96,
+            "S": 105
+        }
+    },
+    {
+        "num": 428,
+        "name": "メガミミロップ",
+        "en_name": "Lopunny",
+        "weight": 33.3,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 76,
+            "B": 84,
+            "C": 54,
+            "D": 96,
+            "S": 105
+        }
+    },
+    {
+        "num": 427,
+        "name": "ミミロル",
+        "en_name": "Buneary",
+        "weight": 5.5,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 55,
+            "A": 66,
+            "B": 44,
+            "C": 44,
+            "D": 56,
+            "S": 85
+        }
+    },
+    {
+        "num": 151,
+        "name": "ミュウ",
+        "en_name": "Mew",
+        "weight": 4.0,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 100,
+            "A": 100,
+            "B": 100,
+            "C": 100,
+            "D": 100,
+            "S": 100
+        }
+    },
+    {
+        "num": 150,
+        "name": "ミュウツー",
+        "en_name": "Mewtwo",
+        "weight": 122.0,
+        "ketaguri": 100,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 106,
+            "A": 110,
+            "B": 90,
+            "C": 154,
+            "D": 90,
+            "S": 130
+        }
+    },
+    {
+        "num": 150,
+        "name": "メガミュウツーX",
+        "en_name": "Mewtwo",
+        "weight": 122.0,
+        "ketaguri": 100,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 106,
+            "A": 110,
+            "B": 90,
+            "C": 154,
+            "D": 90,
+            "S": 130
+        }
+    },
+    {
+        "num": 150,
+        "name": "メガミュウツーY",
+        "en_name": "Mewtwo",
+        "weight": 122.0,
+        "ketaguri": 100,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 106,
+            "A": 110,
+            "B": 90,
+            "C": 154,
+            "D": 90,
+            "S": 130
+        }
+    },
+    {
+        "num": 241,
+        "name": "ミルタンク",
+        "en_name": "Miltank",
+        "weight": 75.5,
+        "ketaguri": 80,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 95,
+            "A": 80,
+            "B": 105,
+            "C": 40,
+            "D": 70,
+            "S": 100
+        }
+    },
+    {
+        "num": 505,
+        "name": "ミルホッグ",
+        "en_name": "Watchog",
+        "weight": 27.0,
+        "ketaguri": 60,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 85,
+            "B": 69,
+            "C": 60,
+            "D": 69,
+            "S": 77
+        }
+    },
+    {
+        "num": 350,
+        "name": "ミロカロス",
+        "en_name": "Milotic",
+        "weight": 162.0,
+        "ketaguri": 100,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 95,
+            "A": 60,
+            "B": 79,
+            "C": 100,
+            "D": 125,
+            "S": 81
+        }
+    },
+    {
+        "num": 200,
+        "name": "ムウマ",
+        "en_name": "Misdreavus",
+        "weight": 1.0,
+        "ketaguri": 20,
+        "type1": 13,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 60,
+            "B": 60,
+            "C": 85,
+            "D": 85,
+            "S": 85
+        }
+    },
+    {
+        "num": 429,
+        "name": "ムウマージ",
+        "en_name": "Mismagius",
+        "weight": 4.4,
+        "ketaguri": 20,
+        "type1": 13,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 60,
+            "B": 60,
+            "C": 105,
+            "D": 105,
+            "S": 105
+        }
+    },
+    {
+        "num": 397,
+        "name": "ムクバード",
+        "en_name": "Staravia",
+        "weight": 15.5,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": 9,
+        "status": {
+            "H": 55,
+            "A": 75,
+            "B": 50,
+            "C": 40,
+            "D": 40,
+            "S": 80
+        }
+    },
+    {
+        "num": 398,
+        "name": "ムクホーク",
+        "en_name": "Staraptor",
+        "weight": 24.9,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": 9,
+        "status": {
+            "H": 85,
+            "A": 120,
+            "B": 70,
+            "C": 50,
+            "D": 60,
+            "S": 100
+        }
+    },
+    {
+        "num": 890,
+        "name": "ムゲンダイナ",
+        "en_name": "Eternatus",
+        "weight": 950.0,
+        "ketaguri": 120,
+        "type1": 7,
+        "type2": 14,
+        "status": {
+            "H": 140,
+            "A": 85,
+            "B": 95,
+            "C": 145,
+            "D": 95,
+            "S": 130
+        }
+    },
+    {
+        "num": 890,
+        "name": "ムゲンダイナ(ムゲン)",
+        "en_name": "Eternatus",
+        "weight": 950.0,
+        "ketaguri": 120,
+        "type1": 7,
+        "type2": 14,
+        "status": {
+            "H": 140,
+            "A": 85,
+            "B": 95,
+            "C": 145,
+            "D": 95,
+            "S": 130
+        }
+    },
+    {
+        "num": 518,
+        "name": "ムシャーナ",
+        "en_name": "Musharna",
+        "weight": 60.5,
+        "ketaguri": 80,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 116,
+            "A": 55,
+            "B": 85,
+            "C": 107,
+            "D": 95,
+            "S": 29
+        }
+    },
+    {
+        "num": 238,
+        "name": "ムチュール",
+        "en_name": "Smoochum",
+        "weight": 6.0,
+        "ketaguri": 20,
+        "type1": 5,
+        "type2": 10,
+        "status": {
+            "H": 45,
+            "A": 30,
+            "B": 15,
+            "C": 85,
+            "D": 65,
+            "S": 65
+        }
+    },
+    {
+        "num": 396,
+        "name": "ムックル",
+        "en_name": "Starly",
+        "weight": 2.0,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": 9,
+        "status": {
+            "H": 40,
+            "A": 55,
+            "B": 30,
+            "C": 30,
+            "D": 30,
+            "S": 60
+        }
+    },
+    {
+        "num": 517,
+        "name": "ムンナ",
+        "en_name": "Munna",
+        "weight": 23.3,
+        "ketaguri": 40,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 76,
+            "A": 25,
+            "B": 45,
+            "C": 67,
+            "D": 55,
+            "S": 24
+        }
+    },
+    {
+        "num": 508,
+        "name": "ムーランド",
+        "en_name": "Stoutland",
+        "weight": 61.0,
+        "ketaguri": 80,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 85,
+            "A": 110,
+            "B": 90,
+            "C": 45,
+            "D": 90,
+            "S": 80
+        }
+    },
+    {
+        "num": 672,
+        "name": "メェークル",
+        "en_name": "Skiddo",
+        "weight": 31.0,
+        "ketaguri": 60,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 66,
+            "A": 65,
+            "B": 48,
+            "C": 62,
+            "D": 57,
+            "S": 52
+        }
+    },
+    {
+        "num": 154,
+        "name": "メガニウム",
+        "en_name": "Meganium",
+        "weight": 100.5,
+        "ketaguri": 100,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 80,
+            "A": 82,
+            "B": 100,
+            "C": 83,
+            "D": 100,
+            "S": 80
+        }
+    },
+    {
+        "num": 469,
+        "name": "メガヤンマ",
+        "en_name": "Yanmega",
+        "weight": 51.5,
+        "ketaguri": 80,
+        "type1": 11,
+        "type2": 9,
+        "status": {
+            "H": 86,
+            "A": 76,
+            "B": 86,
+            "C": 116,
+            "D": 56,
+            "S": 95
+        }
+    },
+    {
+        "num": 551,
+        "name": "メグロコ",
+        "en_name": "Sandile",
+        "weight": 15.2,
+        "ketaguri": 40,
+        "type1": 8,
+        "type2": 15,
+        "status": {
+            "H": 50,
+            "A": 72,
+            "B": 35,
+            "C": 35,
+            "D": 35,
+            "S": 65
+        }
+    },
+    {
+        "num": 376,
+        "name": "メタグロス",
+        "en_name": "Metagross",
+        "weight": 550.0,
+        "ketaguri": 120,
+        "type1": 16,
+        "type2": 10,
+        "status": {
+            "H": 80,
+            "A": 135,
+            "B": 130,
+            "C": 95,
+            "D": 90,
+            "S": 70
+        }
+    },
+    {
+        "num": 376,
+        "name": "メガメタグロス",
+        "en_name": "Metagross",
+        "weight": 550.0,
+        "ketaguri": 120,
+        "type1": 16,
+        "type2": 10,
+        "status": {
+            "H": 80,
+            "A": 135,
+            "B": 130,
+            "C": 95,
+            "D": 90,
+            "S": 70
+        }
+    },
+    {
+        "num": 132,
+        "name": "メタモン",
+        "en_name": "Ditto",
+        "weight": 4.0,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 48,
+            "A": 48,
+            "B": 48,
+            "C": 48,
+            "D": 48,
+            "S": 48
+        }
+    },
+    {
+        "num": 375,
+        "name": "メタング",
+        "en_name": "Metang",
+        "weight": 202.5,
+        "ketaguri": 120,
+        "type1": 16,
+        "type2": 10,
+        "status": {
+            "H": 60,
+            "A": 75,
+            "B": 100,
+            "C": 55,
+            "D": 80,
+            "S": 50
+        }
+    },
+    {
+        "num": 816,
+        "name": "メッソン",
+        "en_name": "Sobble",
+        "weight": 4.0,
+        "ketaguri": 20,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 50,
+            "A": 40,
+            "B": 40,
+            "C": 70,
+            "D": 40,
+            "S": 70
+        }
+    },
+    {
+        "num": 774,
+        "name": "メテノ(流星)",
+        "en_name": "Minior",
+        "weight": 40.0,
+        "ketaguri": 60,
+        "type1": 12,
+        "type2": 9,
+        "status": {
+            "H": 60,
+            "A": 60,
+            "B": 100,
+            "C": 60,
+            "D": 100,
+            "S": 60
+        }
+    },
+    {
+        "num": 774,
+        "name": "メテノ(コア)",
+        "en_name": "Minior",
+        "weight": 40.0,
+        "ketaguri": 60,
+        "type1": 12,
+        "type2": 9,
+        "status": {
+            "H": 60,
+            "A": 60,
+            "B": 100,
+            "C": 60,
+            "D": 100,
+            "S": 60
+        }
+    },
+    {
+        "num": 72,
+        "name": "メノクラゲ",
+        "en_name": "Tentacool",
+        "weight": 45.5,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": 7,
+        "status": {
+            "H": 40,
+            "A": 40,
+            "B": 35,
+            "C": 50,
+            "D": 100,
+            "S": 70
+        }
+    },
+    {
+        "num": 586,
+        "name": "メブキジカ",
+        "en_name": "Sawsbuck",
+        "weight": 92.5,
+        "ketaguri": 80,
+        "type1": 0,
+        "type2": 4,
+        "status": {
+            "H": 80,
+            "A": 100,
+            "B": 70,
+            "C": 60,
+            "D": 70,
+            "S": 95
+        }
+    },
+    {
+        "num": 636,
+        "name": "メラルバ",
+        "en_name": "Larvesta",
+        "weight": 28.8,
+        "ketaguri": 60,
+        "type1": 11,
+        "type2": 1,
+        "status": {
+            "H": 55,
+            "A": 85,
+            "B": 55,
+            "C": 50,
+            "D": 55,
+            "S": 60
+        }
+    },
+    {
+        "num": 179,
+        "name": "メリープ",
+        "en_name": "Mareep",
+        "weight": 7.8,
+        "ketaguri": 20,
+        "type1": 3,
+        "type2": null,
+        "status": {
+            "H": 55,
+            "A": 40,
+            "B": 40,
+            "C": 65,
+            "D": 45,
+            "S": 35
+        }
+    },
+    {
+        "num": 808,
+        "name": "メルタン",
+        "en_name": "Meltan",
+        "weight": 8.0,
+        "ketaguri": 20,
+        "type1": 16,
+        "type2": null,
+        "status": {
+            "H": 46,
+            "A": 65,
+            "B": 65,
+            "C": 55,
+            "D": 35,
+            "S": 34
+        }
+    },
+    {
+        "num": 809,
+        "name": "メルメタル",
+        "en_name": "Melmetal",
+        "weight": 800.0,
+        "ketaguri": 120,
+        "type1": 16,
+        "type2": null,
+        "status": {
+            "H": 135,
+            "A": 143,
+            "B": 143,
+            "C": 80,
+            "D": 65,
+            "S": 34
+        }
+    },
+    {
+        "num": 703,
+        "name": "メレシー",
+        "en_name": "Carbink",
+        "weight": 5.7,
+        "ketaguri": 20,
+        "type1": 12,
+        "type2": 17,
+        "status": {
+            "H": 50,
+            "A": 50,
+            "B": 150,
+            "C": 50,
+            "D": 150,
+            "S": 50
+        }
+    },
+    {
+        "num": 648,
+        "name": "メロエッタ(ボイス)",
+        "en_name": "Meloetta",
+        "weight": 6.5,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": 10,
+        "status": {
+            "H": 100,
+            "A": 77,
+            "B": 77,
+            "C": 128,
+            "D": 128,
+            "S": 90
+        }
+    },
+    {
+        "num": 648,
+        "name": "メロエッタ(ステップ)",
+        "en_name": "Meloetta",
+        "weight": 6.5,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": 10,
+        "status": {
+            "H": 100,
+            "A": 77,
+            "B": 77,
+            "C": 128,
+            "D": 128,
+            "S": 90
+        }
+    },
+    {
+        "num": 391,
+        "name": "モウカザル",
+        "en_name": "Monferno",
+        "weight": 22.0,
+        "ketaguri": 40,
+        "type1": 1,
+        "type2": 6,
+        "status": {
+            "H": 64,
+            "A": 78,
+            "B": 52,
+            "C": 78,
+            "D": 52,
+            "S": 81
+        }
+    },
+    {
+        "num": 722,
+        "name": "モクロー",
+        "en_name": "Rowlet",
+        "weight": 1.5,
+        "ketaguri": 20,
+        "type1": 4,
+        "type2": 9,
+        "status": {
+            "H": 68,
+            "A": 55,
+            "B": 55,
+            "C": 50,
+            "D": 50,
+            "S": 42
+        }
+    },
+    {
+        "num": 529,
+        "name": "モグリュー",
+        "en_name": "Drilbur",
+        "weight": 8.5,
+        "ketaguri": 20,
+        "type1": 8,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 85,
+            "B": 40,
+            "C": 30,
+            "D": 45,
+            "S": 68
+        }
+    },
+    {
+        "num": 180,
+        "name": "モココ",
+        "en_name": "Flaaffy",
+        "weight": 13.3,
+        "ketaguri": 40,
+        "type1": 3,
+        "type2": null,
+        "status": {
+            "H": 70,
+            "A": 55,
+            "B": 55,
+            "C": 80,
+            "D": 60,
+            "S": 45
+        }
+    },
+    {
+        "num": 465,
+        "name": "モジャンボ",
+        "en_name": "Tangrowth",
+        "weight": 128.6,
+        "ketaguri": 100,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 100,
+            "A": 100,
+            "B": 125,
+            "C": 110,
+            "D": 50,
+            "S": 50
+        }
+    },
+    {
+        "num": 873,
+        "name": "モスノウ",
+        "en_name": "Frosmoth",
+        "weight": 42.0,
+        "ketaguri": 60,
+        "type1": 5,
+        "type2": 11,
+        "status": {
+            "H": 70,
+            "A": 65,
+            "B": 60,
+            "C": 125,
+            "D": 90,
+            "S": 65
+        }
+    },
+    {
+        "num": 633,
+        "name": "モノズ",
+        "en_name": "Deino",
+        "weight": 17.3,
+        "ketaguri": 40,
+        "type1": 15,
+        "type2": 14,
+        "status": {
+            "H": 52,
+            "A": 65,
+            "B": 50,
+            "C": 45,
+            "D": 50,
+            "S": 38
+        }
+    },
+    {
+        "num": 49,
+        "name": "モルフォン",
+        "en_name": "Venomoth",
+        "weight": 12.5,
+        "ketaguri": 40,
+        "type1": 11,
+        "type2": 7,
+        "status": {
+            "H": 70,
+            "A": 65,
+            "B": 60,
+            "C": 90,
+            "D": 75,
+            "S": 90
+        }
+    },
+    {
+        "num": 877,
+        "name": "モルペコ",
+        "en_name": "Morpeko",
+        "weight": 3.0,
+        "ketaguri": 20,
+        "type1": 3,
+        "type2": 15,
+        "status": {
+            "H": 58,
+            "A": 95,
+            "B": 58,
+            "C": 70,
+            "D": 58,
+            "S": 97
+        }
+    },
+    {
+        "num": 591,
+        "name": "モロバレル",
+        "en_name": "Amoonguss",
+        "weight": 10.5,
+        "ketaguri": 40,
+        "type1": 4,
+        "type2": 7,
+        "status": {
+            "H": 114,
+            "A": 85,
+            "B": 70,
+            "C": 85,
+            "D": 80,
+            "S": 30
+        }
+    },
+    {
+        "num": 114,
+        "name": "モンジャラ",
+        "en_name": "Tangela",
+        "weight": 35.0,
+        "ketaguri": 60,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 55,
+            "B": 115,
+            "C": 100,
+            "D": 40,
+            "S": 60
+        }
+    },
+    {
+        "num": 546,
+        "name": "モンメン",
+        "en_name": "Cottonee",
+        "weight": 0.6,
+        "ketaguri": 20,
+        "type1": 4,
+        "type2": 17,
+        "status": {
+            "H": 40,
+            "A": 27,
+            "B": 60,
+            "C": 37,
+            "D": 50,
+            "S": 66
+        }
+    }
+]

@@ -1,0 +1,937 @@
+[
+    {
+        "num": 387,
+        "name": "ナエトル",
+        "en_name": "Turtwig",
+        "weight": 10.2,
+        "ketaguri": 40,
+        "type1": 4,
+        "type2": null,
+        "status": {
+            "H": 55,
+            "A": 68,
+            "B": 64,
+            "C": 45,
+            "D": 55,
+            "S": 31
+        }
+    },
+    {
+        "num": 538,
+        "name": "ナゲキ",
+        "en_name": "Throh",
+        "weight": 55.5,
+        "ketaguri": 80,
+        "type1": 6,
+        "type2": null,
+        "status": {
+            "H": 120,
+            "A": 100,
+            "B": 85,
+            "C": 30,
+            "D": 85,
+            "S": 45
+        }
+    },
+    {
+        "num": 766,
+        "name": "ナゲツケサル",
+        "en_name": "Passimian",
+        "weight": 82.8,
+        "ketaguri": 80,
+        "type1": 6,
+        "type2": null,
+        "status": {
+            "H": 100,
+            "A": 120,
+            "B": 90,
+            "C": 40,
+            "D": 60,
+            "S": 80
+        }
+    },
+    {
+        "num": 43,
+        "name": "ナゾノクサ",
+        "en_name": "Oddish",
+        "weight": 5.4,
+        "ketaguri": 20,
+        "type1": 4,
+        "type2": 7,
+        "status": {
+            "H": 45,
+            "A": 50,
+            "B": 55,
+            "C": 75,
+            "D": 65,
+            "S": 30
+        }
+    },
+    {
+        "num": 328,
+        "name": "ナックラー",
+        "en_name": "Trapinch",
+        "weight": 15.0,
+        "ketaguri": 40,
+        "type1": 8,
+        "type2": null,
+        "status": {
+            "H": 45,
+            "A": 100,
+            "B": 45,
+            "C": 45,
+            "D": 45,
+            "S": 10
+        }
+    },
+    {
+        "num": 103,
+        "name": "ナッシー",
+        "en_name": "Exeggutor",
+        "weight": 120.0,
+        "ketaguri": 100,
+        "type1": 4,
+        "type2": 10,
+        "status": {
+            "H": 95,
+            "A": 95,
+            "B": 85,
+            "C": 125,
+            "D": 75,
+            "S": 55
+        }
+    },
+    {
+        "num": 103,
+        "name": "ナッシー(アローラ)",
+        "en_name": "Exeggutor",
+        "weight": 120.0,
+        "ketaguri": 100,
+        "type1": 4,
+        "type2": 10,
+        "status": {
+            "H": 95,
+            "A": 95,
+            "B": 85,
+            "C": 125,
+            "D": 75,
+            "S": 55
+        }
+    },
+    {
+        "num": 598,
+        "name": "ナットレイ",
+        "en_name": "Ferrothorn",
+        "weight": 110.0,
+        "ketaguri": 100,
+        "type1": 4,
+        "type2": 16,
+        "status": {
+            "H": 74,
+            "A": 94,
+            "B": 131,
+            "C": 54,
+            "D": 116,
+            "S": 20
+        }
+    },
+    {
+        "num": 287,
+        "name": "ナマケロ",
+        "en_name": "Slakoth",
+        "weight": 24.0,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 60,
+            "A": 60,
+            "B": 60,
+            "C": 35,
+            "D": 35,
+            "S": 30
+        }
+    },
+    {
+        "num": 771,
+        "name": "ナマコブシ",
+        "en_name": "Pyukumuku",
+        "weight": 1.2,
+        "ketaguri": 20,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 55,
+            "A": 60,
+            "B": 130,
+            "C": 30,
+            "D": 130,
+            "S": 5
+        }
+    },
+    {
+        "num": 340,
+        "name": "ナマズン",
+        "en_name": "Whiscash",
+        "weight": 23.6,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": 8,
+        "status": {
+            "H": 110,
+            "A": 78,
+            "B": 73,
+            "C": 76,
+            "D": 71,
+            "S": 60
+        }
+    },
+    {
+        "num": 680,
+        "name": "ニダンギル",
+        "en_name": "Doublade",
+        "weight": 4.5,
+        "ketaguri": 20,
+        "type1": 16,
+        "type2": 13,
+        "status": {
+            "H": 59,
+            "A": 110,
+            "B": 150,
+            "C": 45,
+            "D": 49,
+            "S": 35
+        }
+    },
+    {
+        "num": 34,
+        "name": "ニドキング",
+        "en_name": "Nidoking",
+        "weight": 62.0,
+        "ketaguri": 80,
+        "type1": 7,
+        "type2": 8,
+        "status": {
+            "H": 81,
+            "A": 102,
+            "B": 77,
+            "C": 85,
+            "D": 75,
+            "S": 85
+        }
+    },
+    {
+        "num": 31,
+        "name": "ニドクイン",
+        "en_name": "Nidoqueen",
+        "weight": 60.0,
+        "ketaguri": 80,
+        "type1": 7,
+        "type2": 8,
+        "status": {
+            "H": 90,
+            "A": 92,
+            "B": 87,
+            "C": 75,
+            "D": 85,
+            "S": 76
+        }
+    },
+    {
+        "num": 29,
+        "name": "ニドラン♀",
+        "en_name": "Nidoran♀",
+        "weight": 7.0,
+        "ketaguri": 20,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 55,
+            "A": 47,
+            "B": 52,
+            "C": 40,
+            "D": 40,
+            "S": 41
+        }
+    },
+    {
+        "num": 32,
+        "name": "ニドラン♂",
+        "en_name": "Nidoran♂",
+        "weight": 9.0,
+        "ketaguri": 20,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 46,
+            "A": 57,
+            "B": 40,
+            "C": 40,
+            "D": 40,
+            "S": 50
+        }
+    },
+    {
+        "num": 30,
+        "name": "ニドリーナ",
+        "en_name": "Nidorina",
+        "weight": 20.0,
+        "ketaguri": 40,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 70,
+            "A": 62,
+            "B": 67,
+            "C": 55,
+            "D": 55,
+            "S": 56
+        }
+    },
+    {
+        "num": 33,
+        "name": "ニドリーノ",
+        "en_name": "Nidorino",
+        "weight": 19.5,
+        "ketaguri": 40,
+        "type1": 7,
+        "type2": null,
+        "status": {
+            "H": 61,
+            "A": 72,
+            "B": 57,
+            "C": 55,
+            "D": 55,
+            "S": 65
+        }
+    },
+    {
+        "num": 863,
+        "name": "ニャイキング",
+        "en_name": "Perrserker",
+        "weight": 28.0,
+        "ketaguri": 60,
+        "type1": 16,
+        "type2": null,
+        "status": {
+            "H": 70,
+            "A": 110,
+            "B": 100,
+            "C": 50,
+            "D": 60,
+            "S": 50
+        }
+    },
+    {
+        "num": 678,
+        "name": "ニャオニクス♂",
+        "en_name": "Meowstic",
+        "weight": 8.5,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 74,
+            "A": 48,
+            "B": 76,
+            "C": 83,
+            "D": 81,
+            "S": 104
+        }
+    },
+    {
+        "num": 678,
+        "name": "ニャオニクス♀",
+        "en_name": "Meowstic",
+        "weight": 8.5,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 74,
+            "A": 48,
+            "B": 76,
+            "C": 83,
+            "D": 81,
+            "S": 104
+        }
+    },
+    {
+        "num": 677,
+        "name": "ニャスパー",
+        "en_name": "Espurr",
+        "weight": 3.5,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 62,
+            "A": 48,
+            "B": 54,
+            "C": 63,
+            "D": 60,
+            "S": 68
+        }
+    },
+    {
+        "num": 726,
+        "name": "ニャヒート",
+        "en_name": "Torracat",
+        "weight": 25.0,
+        "ketaguri": 60,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 85,
+            "B": 50,
+            "C": 80,
+            "D": 50,
+            "S": 90
+        }
+    },
+    {
+        "num": 725,
+        "name": "ニャビー",
+        "en_name": "Litten",
+        "weight": 4.3,
+        "ketaguri": 20,
+        "type1": 1,
+        "type2": null,
+        "status": {
+            "H": 45,
+            "A": 65,
+            "B": 40,
+            "C": 60,
+            "D": 40,
+            "S": 70
+        }
+    },
+    {
+        "num": 431,
+        "name": "ニャルマー",
+        "en_name": "Glameow",
+        "weight": 3.9,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 49,
+            "A": 55,
+            "B": 42,
+            "C": 42,
+            "D": 37,
+            "S": 85
+        }
+    },
+    {
+        "num": 52,
+        "name": "ニャース",
+        "en_name": "Meowth",
+        "weight": 4.2,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 40,
+            "A": 45,
+            "B": 35,
+            "C": 40,
+            "D": 40,
+            "S": 90
+        }
+    },
+    {
+        "num": 52,
+        "name": "ニャース(ガラル)",
+        "en_name": "Meowth",
+        "weight": 4.2,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 40,
+            "A": 45,
+            "B": 35,
+            "C": 40,
+            "D": 40,
+            "S": 90
+        }
+    },
+    {
+        "num": 52,
+        "name": "ニャース(アローラ)",
+        "en_name": "Meowth",
+        "weight": 4.2,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 40,
+            "A": 45,
+            "B": 35,
+            "C": 40,
+            "D": 40,
+            "S": 90
+        }
+    },
+    {
+        "num": 215,
+        "name": "ニューラ",
+        "en_name": "Sneasel",
+        "weight": 28.0,
+        "ketaguri": 60,
+        "type1": 15,
+        "type2": 5,
+        "status": {
+            "H": 55,
+            "A": 95,
+            "B": 55,
+            "C": 35,
+            "D": 75,
+            "S": 115
+        }
+    },
+    {
+        "num": 61,
+        "name": "ニョロゾ",
+        "en_name": "Poliwhirl",
+        "weight": 20.0,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 65,
+            "B": 65,
+            "C": 50,
+            "D": 50,
+            "S": 90
+        }
+    },
+    {
+        "num": 186,
+        "name": "ニョロトノ",
+        "en_name": "Politoed",
+        "weight": 33.9,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 90,
+            "A": 75,
+            "B": 75,
+            "C": 90,
+            "D": 100,
+            "S": 70
+        }
+    },
+    {
+        "num": 62,
+        "name": "ニョロボン",
+        "en_name": "Poliwrath",
+        "weight": 54.0,
+        "ketaguri": 80,
+        "type1": 2,
+        "type2": 6,
+        "status": {
+            "H": 90,
+            "A": 95,
+            "B": 95,
+            "C": 70,
+            "D": 90,
+            "S": 70
+        }
+    },
+    {
+        "num": 60,
+        "name": "ニョロモ",
+        "en_name": "Poliwag",
+        "weight": 12.4,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 40,
+            "A": 50,
+            "B": 40,
+            "C": 40,
+            "D": 40,
+            "S": 90
+        }
+    },
+    {
+        "num": 700,
+        "name": "ニンフィア",
+        "en_name": "Sylveon",
+        "weight": 23.5,
+        "ketaguri": 40,
+        "type1": 17,
+        "type2": null,
+        "status": {
+            "H": 95,
+            "A": 65,
+            "B": 65,
+            "C": 110,
+            "D": 130,
+            "S": 60
+        }
+    },
+    {
+        "num": 759,
+        "name": "ヌイコグマ",
+        "en_name": "Stufful",
+        "weight": 6.8,
+        "ketaguri": 20,
+        "type1": 0,
+        "type2": 6,
+        "status": {
+            "H": 70,
+            "A": 75,
+            "B": 50,
+            "C": 45,
+            "D": 50,
+            "S": 50
+        }
+    },
+    {
+        "num": 195,
+        "name": "ヌオー",
+        "en_name": "Quagsire",
+        "weight": 75.0,
+        "ketaguri": 80,
+        "type1": 2,
+        "type2": 8,
+        "status": {
+            "H": 95,
+            "A": 85,
+            "B": 85,
+            "C": 65,
+            "D": 65,
+            "S": 35
+        }
+    },
+    {
+        "num": 292,
+        "name": "ヌケニン",
+        "en_name": "Shedinja",
+        "weight": 1.2,
+        "ketaguri": 20,
+        "type1": 11,
+        "type2": 13,
+        "status": {
+            "H": 1,
+            "A": 90,
+            "B": 45,
+            "C": 30,
+            "D": 30,
+            "S": 40
+        }
+    },
+    {
+        "num": 259,
+        "name": "ヌマクロー",
+        "en_name": "Marshtomp",
+        "weight": 28.0,
+        "ketaguri": 60,
+        "type1": 2,
+        "type2": 8,
+        "status": {
+            "H": 70,
+            "A": 85,
+            "B": 70,
+            "C": 60,
+            "D": 70,
+            "S": 50
+        }
+    },
+    {
+        "num": 705,
+        "name": "ヌメイル",
+        "en_name": "Sliggoo",
+        "weight": 17.5,
+        "ketaguri": 40,
+        "type1": 14,
+        "type2": null,
+        "status": {
+            "H": 68,
+            "A": 75,
+            "B": 53,
+            "C": 83,
+            "D": 113,
+            "S": 60
+        }
+    },
+    {
+        "num": 704,
+        "name": "ヌメラ",
+        "en_name": "Goomy",
+        "weight": 2.8,
+        "ketaguri": 20,
+        "type1": 14,
+        "type2": null,
+        "status": {
+            "H": 45,
+            "A": 50,
+            "B": 35,
+            "C": 55,
+            "D": 75,
+            "S": 40
+        }
+    },
+    {
+        "num": 706,
+        "name": "ヌメルゴン",
+        "en_name": "Goodra",
+        "weight": 150.5,
+        "ketaguri": 100,
+        "type1": 14,
+        "type2": null,
+        "status": {
+            "H": 90,
+            "A": 100,
+            "B": 70,
+            "C": 110,
+            "D": 150,
+            "S": 80
+        }
+    },
+    {
+        "num": 177,
+        "name": "ネイティ",
+        "en_name": "Natu",
+        "weight": 2.0,
+        "ketaguri": 20,
+        "type1": 10,
+        "type2": 9,
+        "status": {
+            "H": 40,
+            "A": 50,
+            "B": 45,
+            "C": 70,
+            "D": 45,
+            "S": 70
+        }
+    },
+    {
+        "num": 178,
+        "name": "ネイティオ",
+        "en_name": "Xatu",
+        "weight": 15.0,
+        "ketaguri": 40,
+        "type1": 10,
+        "type2": 9,
+        "status": {
+            "H": 65,
+            "A": 75,
+            "B": 70,
+            "C": 95,
+            "D": 70,
+            "S": 95
+        }
+    },
+    {
+        "num": 457,
+        "name": "ネオラント",
+        "en_name": "Lumineon",
+        "weight": 24.0,
+        "ketaguri": 40,
+        "type1": 2,
+        "type2": null,
+        "status": {
+            "H": 69,
+            "A": 69,
+            "B": 76,
+            "C": 69,
+            "D": 86,
+            "S": 91
+        }
+    },
+    {
+        "num": 865,
+        "name": "ネギガナイト",
+        "en_name": "Sirfetch'd",
+        "weight": 117.0,
+        "ketaguri": 100,
+        "type1": 6,
+        "type2": null,
+        "status": {
+            "H": 62,
+            "A": 135,
+            "B": 95,
+            "C": 68,
+            "D": 82,
+            "S": 65
+        }
+    },
+    {
+        "num": 800,
+        "name": "ネクロズマ",
+        "en_name": "Necrozma",
+        "weight": 230.0,
+        "ketaguri": 120,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 97,
+            "A": 107,
+            "B": 101,
+            "C": 127,
+            "D": 89,
+            "S": 79
+        }
+    },
+    {
+        "num": 800,
+        "name": "ネクロズマ(日食)",
+        "en_name": "Necrozma",
+        "weight": 230.0,
+        "ketaguri": 120,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 97,
+            "A": 107,
+            "B": 101,
+            "C": 127,
+            "D": 89,
+            "S": 79
+        }
+    },
+    {
+        "num": 800,
+        "name": "ネクロズマ(月食)",
+        "en_name": "Necrozma",
+        "weight": 230.0,
+        "ketaguri": 120,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 97,
+            "A": 107,
+            "B": 101,
+            "C": 127,
+            "D": 89,
+            "S": 79
+        }
+    },
+    {
+        "num": 800,
+        "name": "ウルトラネクロズマ",
+        "en_name": "Necrozma",
+        "weight": 230.0,
+        "ketaguri": 120,
+        "type1": 10,
+        "type2": null,
+        "status": {
+            "H": 97,
+            "A": 107,
+            "B": 101,
+            "C": 127,
+            "D": 89,
+            "S": 79
+        }
+    },
+    {
+        "num": 775,
+        "name": "ネッコアラ",
+        "en_name": "Komala",
+        "weight": 19.9,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 65,
+            "A": 115,
+            "B": 65,
+            "C": 75,
+            "D": 95,
+            "S": 65
+        }
+    },
+    {
+        "num": 755,
+        "name": "ネマシュ",
+        "en_name": "Morelull",
+        "weight": 1.5,
+        "ketaguri": 20,
+        "type1": 4,
+        "type2": 17,
+        "status": {
+            "H": 40,
+            "A": 35,
+            "B": 55,
+            "C": 65,
+            "D": 75,
+            "S": 15
+        }
+    },
+    {
+        "num": 344,
+        "name": "ネンドール",
+        "en_name": "Claydol",
+        "weight": 108.0,
+        "ketaguri": 100,
+        "type1": 8,
+        "type2": 10,
+        "status": {
+            "H": 60,
+            "A": 70,
+            "B": 105,
+            "C": 70,
+            "D": 120,
+            "S": 75
+        }
+    },
+    {
+        "num": 332,
+        "name": "ノクタス",
+        "en_name": "Cacturne",
+        "weight": 77.4,
+        "ketaguri": 80,
+        "type1": 4,
+        "type2": 15,
+        "status": {
+            "H": 70,
+            "A": 115,
+            "B": 60,
+            "C": 115,
+            "D": 60,
+            "S": 55
+        }
+    },
+    {
+        "num": 206,
+        "name": "ノコッチ",
+        "en_name": "Dunsparce",
+        "weight": 14.0,
+        "ketaguri": 40,
+        "type1": 0,
+        "type2": null,
+        "status": {
+            "H": 100,
+            "A": 70,
+            "B": 70,
+            "C": 65,
+            "D": 65,
+            "S": 45
+        }
+    },
+    {
+        "num": 299,
+        "name": "ノズパス",
+        "en_name": "Nosepass",
+        "weight": 97.0,
+        "ketaguri": 80,
+        "type1": 12,
+        "type2": null,
+        "status": {
+            "H": 30,
+            "A": 45,
+            "B": 135,
+            "C": 45,
+            "D": 90,
+            "S": 30
+        }
+    }
+]
