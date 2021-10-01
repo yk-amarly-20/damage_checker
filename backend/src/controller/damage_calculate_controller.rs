@@ -1,9 +1,9 @@
-use actix_web::{get, web, Responder};
-use serde::Deserialize;
 use crate::domain::models;
-use models::other_status::types::Types;
+use actix_web::{get, web, Responder};
 use models::battle::attacker::Attacker;
-use models
+use models::battle::defender::Defender;
+use models::other_status::types::Types;
+use serde::Deserialize;
 
 #[derive(Deserialize)]
 pub struct DamageCaluculationParams {
@@ -22,6 +22,5 @@ pub struct DamageCaluculationParams {
 
 #[get("/caluculate/damage")]
 async fn caluculate_damage(query: web::Query<DamageCaluculationParams>) -> impl Responder {
-  // とりあえず適当なやつ置いておく
-
+    // とりあえず適当なやつ置いておく
 }
